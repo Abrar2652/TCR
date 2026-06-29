@@ -1,0 +1,94 @@
+{
+  "n_methods": 775,
+  "n_gold_partial": 10,
+  "cost_only_expected": 0.5466,
+  "cost_only_expected_ci95": [
+    0.5353,
+    0.5576
+  ],
+  "cost_only_worst": 0.2258,
+  "cost_only_worst_ci95": [
+    0.2151,
+    0.2367
+  ],
+  "conformance": 1.0,
+  "mean_gap_over_indifference_set": 0.5913,
+  "frac_methods_with_gap": 1.0,
+  "per_domain": {
+    "Barman-BDI": {
+      "n": 11,
+      "cost_only_expected": 0.5947,
+      "cost_only_worst": 0.25,
+      "mean_gap": 0.5455
+    },
+    "Monroe-Fully-Observable": {
+      "n": 81,
+      "cost_only_expected": 0.6235,
+      "cost_only_worst": 0.3136,
+      "mean_gap": 0.5463
+    },
+    "Monroe-Partially-Observable": {
+      "n": 79,
+      "cost_only_expected": 0.623,
+      "cost_only_worst": 0.3141,
+      "mean_gap": 0.5475
+    },
+    "PCP": {
+      "n": 504,
+      "cost_only_expected": 0.5167,
+      "cost_only_worst": 0.19,
+      "mean_gap": 0.6052
+    },
+    "Rover": {
+      "n": 14,
+      "cost_only_expected": 0.5655,
+      "cost_only_worst": 0.2679,
+      "mean_gap": 0.6071
+    },
+    "Satellite": {
+      "n": 10,
+      "cost_only_expected": 0.675,
+      "cost_only_worst": 0.4,
+      "mean_gap": 0.55
+    },
+    "Transport": {
+      "n": 1,
+      "cost_only_expected": 0.75,
+      "cost_only_worst": 0.5,
+      "mean_gap": 0.5
+    },
+    "UM-Translog": {
+      "n": 72,
+      "cost_only_expected": 0.5524,
+      "cost_only_worst": 0.2391,
+      "mean_gap": 0.6042
+    },
+    "Woodworking": {
+      "n": 3,
+      "cost_only_expected": 0.5972,
+      "cost_only_worst": 0.2778,
+      "mean_gap": 0.5833
+    }
+  },
+  "genuine_partial": {
+    "n_units": 24,
+    "n_domains": 2,
+    "domains": [
+      "Monroe-Fully-Observable",
+      "Monroe-Partially-Observable"
+    ],
+    "cost_only_expected": 0.4926,
+    "cost_only_expected_ci95": [
+      0.4359,
+      0.538
+    ],
+    "cost_only_worst": 0.1778,
+    "cost_only_worst_ci95": [
+      0.1278,
+      0.225
+    ],
+    "conformance": 1.0,
+    "mean_gap_over_indifference_set": 0.7083,
+    "frac_units_with_gap": 1.0
+  }
+}

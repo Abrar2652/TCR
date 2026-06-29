@@ -1,0 +1,145 @@
+{"name": "Entertainment/pfile02/plan-2", "domain": "Entertainment", "L": 24, "gold_pruned_precision": 1.0, "gold_n_lenL": 1, "repair_precision": 1.0, "repair_valid": 1, "repair_n_lenL": 1, "ambiguous": false}
+{"name": "Entertainment/pfile02/plan-1", "domain": "Entertainment", "L": 25, "gold_pruned_precision": 1.0, "gold_n_lenL": 2, "repair_precision": 1.0, "repair_valid": 2, "repair_n_lenL": 2, "ambiguous": true}
+{"name": "Woodworking/03--p02-part2/plan-2", "domain": "Woodworking", "L": 7, "gold_pruned_precision": 1.0, "gold_n_lenL": 1, "repair_precision": 1.0, "repair_valid": 1, "repair_n_lenL": 1, "ambiguous": false}
+{"name": "Satellite-GTOHP/p01/plan-2", "domain": "Satellite-GTOHP", "L": 12, "gold_pruned_precision": 1.0, "gold_n_lenL": 52, "repair_precision": 0.0377, "repair_valid": 4, "repair_n_lenL": 106, "ambiguous": true}
+{"name": "Satellite-GTOHP/p01/plan-1", "domain": "Satellite-GTOHP", "L": 16, "gold_pruned_precision": 1.0, "gold_n_lenL": 234, "repair_precision": 0.1622, "repair_valid": 6, "repair_n_lenL": 37, "ambiguous": true}
+{"name": "Blocksworld-GTOHP/p01/plan-2", "domain": "Blocksworld-GTOHP", "L": 22, "gold_pruned_precision": 1.0, "gold_n_lenL": 278, "repair_precision": 0.0153, "repair_valid": 4, "repair_n_lenL": 261, "ambiguous": true}
+{"name": "Blocksworld-GTOHP/p01/plan-1", "domain": "Blocksworld-GTOHP", "L": 21, "gold_pruned_precision": 1.0, "gold_n_lenL": 16, "repair_precision": 0.1111, "repair_valid": 1, "repair_n_lenL": 9, "ambiguous": true}
+{"name": "Entertainment/pfile01/plan-1", "domain": "Entertainment", "L": 41, "gold_pruned_precision": 1.0, "gold_n_lenL": 2, "repair_precision": 1.0, "repair_valid": 2, "repair_n_lenL": 2, "ambiguous": true}
+{"name": "Entertainment/pfile03/plan-1", "domain": "Entertainment", "L": 50, "gold_pruned_precision": 1.0, "gold_n_lenL": 4, "repair_precision": 1.0, "repair_valid": 4, "repair_n_lenL": 4, "ambiguous": true}
+{"name": "Entertainment/pfile03/plan-2", "domain": "Entertainment", "L": 49, "gold_pruned_precision": 1.0, "gold_n_lenL": 2, "repair_precision": 1.0, "repair_valid": 2, "repair_n_lenL": 2, "ambiguous": true}
+{"name": "Blocksworld-GTOHP/p03/plan-2", "domain": "Blocksworld-GTOHP", "L": 40, "gold_pruned_precision": 1.0, "gold_n_lenL": 61, "repair_precision": 0.0, "repair_valid": 0, "repair_n_lenL": 86, "ambiguous": true}
+{"name": "Blocksworld-GTOHP/p03/plan-1", "domain": "Blocksworld-GTOHP", "L": 39, "gold_pruned_precision": 1.0, "gold_n_lenL": 81, "repair_precision": 0.0, "repair_valid": 0, "repair_n_lenL": 219, "ambiguous": true}
+{"name": "Transport/pfile04/plan-1", "domain": "Transport", "L": 22, "gold_pruned_precision": 1.0, "gold_n_lenL": 300, "repair_precision": 0.0, "repair_valid": 0, "repair_n_lenL": 300, "ambiguous": true}
+{"name": "Entertainment/pfile04/plan-3", "domain": "Entertainment", "L": 33, "gold_pruned_precision": 1.0, "gold_n_lenL": 1, "repair_precision": 1.0, "repair_valid": 1, "repair_n_lenL": 1, "ambiguous": false}
+{"name": "Entertainment/pfile04/plan-2", "domain": "Entertainment", "L": 32, "gold_pruned_precision": 1.0, "gold_n_lenL": 1, "repair_precision": 1.0, "repair_valid": 1, "repair_n_lenL": 1, "ambiguous": false}
+{"name": "Entertainment/pfile04/plan-1", "domain": "Entertainment", "L": 33, "gold_pruned_precision": 1.0, "gold_n_lenL": 1, "repair_precision": 1.0, "repair_valid": 1, "repair_n_lenL": 1, "ambiguous": false}
+{"name": "Blocksworld-GTOHP/p02/plan-1", "domain": "Blocksworld-GTOHP", "L": 35, "gold_pruned_precision": 1.0, "gold_n_lenL": 123, "repair_precision": 0.0, "repair_valid": 0, "repair_n_lenL": 85, "ambiguous": true}
+{"name": "Transport/pfile06/plan-1", "domain": "Transport", "L": 33, "gold_pruned_precision": 1.0, "gold_n_lenL": 300, "repair_precision": 0.0, "repair_valid": 0, "repair_n_lenL": 300, "ambiguous": true}
+{"name": "Transport/pfile05/plan-1", "domain": "Transport", "L": 38, "gold_pruned_precision": 1.0, "gold_n_lenL": 200, "repair_precision": 0.0, "repair_valid": 0, "repair_n_lenL": 300, "ambiguous": true}
+{"name": "Depots/p01/plan-1", "domain": "Depots", "L": 15, "gold_pruned_precision": 1.0, "gold_n_lenL": 16, "repair_precision": 0.1127, "repair_valid": 8, "repair_n_lenL": 71, "ambiguous": true}
+{"name": "Depots/p01/plan-2", "domain": "Depots", "L": 15, "gold_pruned_precision": 1.0, "gold_n_lenL": 12, "repair_precision": 0.3333, "repair_valid": 4, "repair_n_lenL": 12, "ambiguous": true}
+{"name": "Depots/p01/plan-3", "domain": "Depots", "L": 15, "gold_pruned_precision": 1.0, "gold_n_lenL": 16, "repair_precision": 0.2222, "repair_valid": 4, "repair_n_lenL": 18, "ambiguous": true}
+{"name": "Rover-GTOHP/p01/plan-1", "domain": "Rover-GTOHP", "L": 16, "gold_pruned_precision": 1.0, "gold_n_lenL": 40, "repair_precision": 0.0233, "repair_valid": 7, "repair_n_lenL": 300, "ambiguous": true}
+{"name": "Rover-GTOHP/p01/plan-2", "domain": "Rover-GTOHP", "L": 33, "gold_pruned_precision": 1.0, "gold_n_lenL": 260, "repair_precision": 0.0, "repair_valid": 0, "repair_n_lenL": 300, "ambiguous": true}
+{"name": "Rover-GTOHP/p01/plan-4", "domain": "Rover-GTOHP", "L": 18, "gold_pruned_precision": 1.0, "gold_n_lenL": 56, "repair_precision": 0.0267, "repair_valid": 8, "repair_n_lenL": 300, "ambiguous": true}
+{"name": "Rover-GTOHP/p01/plan-3", "domain": "Rover-GTOHP", "L": 22, "gold_pruned_precision": 1.0, "gold_n_lenL": 238, "repair_precision": 0.0377, "repair_valid": 9, "repair_n_lenL": 239, "ambiguous": true}
+{"name": "Rover-GTOHP/p02/plan-2", "domain": "Rover-GTOHP", "L": 33, "gold_pruned_precision": 1.0, "gold_n_lenL": 300, "repair_precision": 0.0033, "repair_valid": 1, "repair_n_lenL": 300, "ambiguous": true}
+{"name": "Rover-GTOHP/p02/plan-5", "domain": "Rover-GTOHP", "L": 27, "gold_pruned_precision": 1.0, "gold_n_lenL": 251, "repair_precision": 0.0, "repair_valid": 0, "repair_n_lenL": 300, "ambiguous": true}
+{"name": "Rover-GTOHP/p02/plan-4", "domain": "Rover-GTOHP", "L": 31, "gold_pruned_precision": 1.0, "gold_n_lenL": 300, "repair_precision": 0.0, "repair_valid": 0, "repair_n_lenL": 300, "ambiguous": true}
+{"name": "Rover-GTOHP/p02/plan-3", "domain": "Rover-GTOHP", "L": 26, "gold_pruned_precision": 1.0, "gold_n_lenL": 208, "repair_precision": 0.0033, "repair_valid": 1, "repair_n_lenL": 300, "ambiguous": true}
+{"name": "Rover-GTOHP/p02/plan-1", "domain": "Rover-GTOHP", "L": 27, "gold_pruned_precision": 1.0, "gold_n_lenL": 197, "repair_precision": 0.0, "repair_valid": 0, "repair_n_lenL": 300, "ambiguous": true}
+{"name": "Transport/pfile09/plan-1", "domain": "Transport", "L": 36, "gold_pruned_precision": 1.0, "gold_n_lenL": 300, "repair_precision": 0.0, "repair_valid": 0, "repair_n_lenL": 300, "ambiguous": true}
+{"name": "Transport/pfile09/plan-3", "domain": "Transport", "L": 33, "gold_pruned_precision": 1.0, "gold_n_lenL": 300, "repair_precision": 0.0, "repair_valid": 0, "repair_n_lenL": 300, "ambiguous": true}
+{"name": "Transport/pfile09/plan-2", "domain": "Transport", "L": 34, "gold_pruned_precision": 1.0, "gold_n_lenL": 300, "repair_precision": 0.0067, "repair_valid": 2, "repair_n_lenL": 300, "ambiguous": true}
+{"name": "Transport/pfile08/plan-2", "domain": "Transport", "L": 34, "gold_pruned_precision": 1.0, "gold_n_lenL": 300, "repair_precision": 0.0, "repair_valid": 0, "repair_n_lenL": 300, "ambiguous": true}
+{"name": "Transport/pfile08/plan-3", "domain": "Transport", "L": 44, "gold_pruned_precision": 1.0, "gold_n_lenL": 155, "repair_precision": 0.0, "repair_valid": 0, "repair_n_lenL": 300, "ambiguous": true}
+{"name": "Transport/pfile08/plan-1", "domain": "Transport", "L": 39, "gold_pruned_precision": 1.0, "gold_n_lenL": 300, "repair_precision": 0.0, "repair_valid": 0, "repair_n_lenL": 300, "ambiguous": true}
+{"name": "Satellite-GTOHP/p02/plan-1", "domain": "Satellite-GTOHP", "L": 22, "gold_pruned_precision": 1.0, "gold_n_lenL": 300, "repair_precision": 0.0267, "repair_valid": 8, "repair_n_lenL": 300, "ambiguous": true}
+{"name": "Satellite-GTOHP/p02/plan-2", "domain": "Satellite-GTOHP", "L": 34, "gold_pruned_precision": 1.0, "gold_n_lenL": 2, "repair_precision": 0.0149, "repair_valid": 1, "repair_n_lenL": 67, "ambiguous": true}
+{"name": "Satellite-GTOHP/p02/plan-3", "domain": "Satellite-GTOHP", "L": 26, "gold_pruned_precision": 1.0, "gold_n_lenL": 164, "repair_precision": 0.0067, "repair_valid": 2, "repair_n_lenL": 300, "ambiguous": true}
+{"name": "Satellite-GTOHP/p02/plan-4", "domain": "Satellite-GTOHP", "L": 34, "gold_pruned_precision": 1.0, "gold_n_lenL": 1, "repair_precision": 0.0, "repair_valid": 0, "repair_n_lenL": 1, "ambiguous": false}
+{"name": "Entertainment/pfile05/plan-1", "domain": "Entertainment", "L": 48, "gold_pruned_precision": 1.0, "gold_n_lenL": 1, "repair_precision": 1.0, "repair_valid": 1, "repair_n_lenL": 1, "ambiguous": false}
+{"name": "Entertainment/pfile05/plan-2", "domain": "Entertainment", "L": 48, "gold_pruned_precision": 1.0, "gold_n_lenL": 1, "repair_precision": 1.0, "repair_valid": 1, "repair_n_lenL": 1, "ambiguous": false}
+{"name": "Transport/pfile11/plan-1", "domain": "Transport", "L": 27, "gold_pruned_precision": 1.0, "gold_n_lenL": 300, "repair_precision": 0.1385, "repair_valid": 36, "repair_n_lenL": 260, "ambiguous": true}
+{"name": "Rover-GTOHP/p03/plan-1", "domain": "Rover-GTOHP", "L": 28, "gold_pruned_precision": 1.0, "gold_n_lenL": 154, "repair_precision": 0.0, "repair_valid": 0, "repair_n_lenL": 300, "ambiguous": true}
+{"name": "Rover-GTOHP/p03/plan-6", "domain": "Rover-GTOHP", "L": 18, "gold_pruned_precision": 1.0, "gold_n_lenL": 10, "repair_precision": 0.0067, "repair_valid": 2, "repair_n_lenL": 300, "ambiguous": true}
+{"name": "Rover-GTOHP/p03/plan-3", "domain": "Rover-GTOHP", "L": 24, "gold_pruned_precision": 1.0, "gold_n_lenL": 300, "repair_precision": 0.0233, "repair_valid": 7, "repair_n_lenL": 300, "ambiguous": true}
+{"name": "Rover-GTOHP/p03/plan-4", "domain": "Rover-GTOHP", "L": 16, "gold_pruned_precision": 1.0, "gold_n_lenL": 8, "repair_precision": 0.2105, "repair_valid": 8, "repair_n_lenL": 38, "ambiguous": true}
+{"name": "Rover-GTOHP/p03/plan-5", "domain": "Rover-GTOHP", "L": 21, "gold_pruned_precision": 1.0, "gold_n_lenL": 300, "repair_precision": 0.0133, "repair_valid": 4, "repair_n_lenL": 300, "ambiguous": true}
+{"name": "Rover-GTOHP/p03/plan-2", "domain": "Rover-GTOHP", "L": 18, "gold_pruned_precision": 1.0, "gold_n_lenL": 66, "repair_precision": 0.0033, "repair_valid": 1, "repair_n_lenL": 300, "ambiguous": true}
+{"name": "Satellite-GTOHP/p03/plan-4", "domain": "Satellite-GTOHP", "L": 19, "gold_pruned_precision": 1.0, "gold_n_lenL": 217, "repair_precision": 0.0267, "repair_valid": 8, "repair_n_lenL": 300, "ambiguous": true}
+{"name": "Satellite-GTOHP/p03/plan-3", "domain": "Satellite-GTOHP", "L": 16, "gold_pruned_precision": 1.0, "gold_n_lenL": 171, "repair_precision": 0.0267, "repair_valid": 8, "repair_n_lenL": 300, "ambiguous": true}
+{"name": "Satellite-GTOHP/p03/plan-2", "domain": "Satellite-GTOHP", "L": 20, "gold_pruned_precision": 1.0, "gold_n_lenL": 300, "repair_precision": 0.08, "repair_valid": 24, "repair_n_lenL": 300, "ambiguous": true}
+{"name": "Satellite-GTOHP/p03/plan-1", "domain": "Satellite-GTOHP", "L": 24, "gold_pruned_precision": 1.0, "gold_n_lenL": 66, "repair_precision": 0.7955, "repair_valid": 35, "repair_n_lenL": 44, "ambiguous": true}
+{"name": "Transport/pfile13/plan-1", "domain": "Transport", "L": 31, "gold_pruned_precision": 1.0, "gold_n_lenL": 300, "repair_precision": 0.06, "repair_valid": 18, "repair_n_lenL": 300, "ambiguous": true}
+{"name": "Transport/pfile13/plan-3", "domain": "Transport", "L": 27, "gold_pruned_precision": 1.0, "gold_n_lenL": 300, "repair_precision": 0.0, "repair_valid": 0, "repair_n_lenL": 300, "ambiguous": true}
+{"name": "Transport/pfile13/plan-2", "domain": "Transport", "L": 27, "gold_pruned_precision": 1.0, "gold_n_lenL": 300, "repair_precision": 0.1267, "repair_valid": 38, "repair_n_lenL": 300, "ambiguous": true}
+{"name": "Transport/pfile14/plan-3", "domain": "Transport", "L": 35, "gold_pruned_precision": 1.0, "gold_n_lenL": 300, "repair_precision": 0.0, "repair_valid": 0, "repair_n_lenL": 300, "ambiguous": true}
+{"name": "Transport/pfile14/plan-2", "domain": "Transport", "L": 40, "gold_pruned_precision": 1.0, "gold_n_lenL": 300, "repair_precision": 0.0033, "repair_valid": 1, "repair_n_lenL": 300, "ambiguous": true}
+{"name": "Transport/pfile14/plan-1", "domain": "Transport", "L": 41, "gold_pruned_precision": 1.0, "gold_n_lenL": 300, "repair_precision": 0.0033, "repair_valid": 1, "repair_n_lenL": 300, "ambiguous": true}
+{"name": "Rover-GTOHP/p04/plan-1", "domain": "Rover-GTOHP", "L": 45, "gold_pruned_precision": 1.0, "gold_n_lenL": 11, "repair_precision": 0.0, "repair_valid": 0, "repair_n_lenL": 300, "ambiguous": true}
+{"name": "Depots/p07/plan-1", "domain": "Depots", "L": 34, "gold_pruned_precision": 1.0, "gold_n_lenL": 25, "repair_precision": 0.026, "repair_valid": 2, "repair_n_lenL": 77, "ambiguous": true}
+{"name": "Depots/p07/plan-2", "domain": "Depots", "L": 34, "gold_pruned_precision": 1.0, "gold_n_lenL": 34, "repair_precision": 0.0233, "repair_valid": 2, "repair_n_lenL": 86, "ambiguous": true}
+{"name": "Transport/pfile15/plan-1", "domain": "Transport", "L": 50, "gold_pruned_precision": 1.0, "gold_n_lenL": 97, "repair_precision": 0.0, "repair_valid": 0, "repair_n_lenL": 300, "ambiguous": true}
+{"name": "Depots/p10/plan-2", "domain": "Depots", "L": 38, "gold_pruned_precision": 1.0, "gold_n_lenL": 71, "repair_precision": 0.0, "repair_valid": 0, "repair_n_lenL": 65, "ambiguous": true}
+{"name": "Depots/p10/plan-3", "domain": "Depots", "L": 38, "gold_pruned_precision": 1.0, "gold_n_lenL": 71, "repair_precision": 0.1, "repair_valid": 1, "repair_n_lenL": 10, "ambiguous": true}
+{"name": "Depots/p10/plan-1", "domain": "Depots", "L": 38, "gold_pruned_precision": 1.0, "gold_n_lenL": 62, "repair_precision": 0.0, "repair_valid": 0, "repair_n_lenL": 7, "ambiguous": true}
+{"name": "Depots/p13/plan-1", "domain": "Depots", "L": 37, "gold_pruned_precision": 1.0, "gold_n_lenL": 26, "repair_precision": 0.0714, "repair_valid": 1, "repair_n_lenL": 14, "ambiguous": true}
+{"name": "Depots/p13/plan-2", "domain": "Depots", "L": 45, "gold_pruned_precision": 1.0, "gold_n_lenL": 4, "repair_precision": 0.0526, "repair_valid": 1, "repair_n_lenL": 19, "ambiguous": true}
+{"name": "Depots/p14/plan-1", "domain": "Depots", "L": 47, "gold_pruned_precision": 1.0, "gold_n_lenL": 11, "repair_precision": 0.0, "repair_valid": 0, "repair_n_lenL": 3, "ambiguous": true}
+{"name": "Depots/p03/plan-1", "domain": "Depots", "L": 44, "gold_pruned_precision": 1.0, "gold_n_lenL": 56, "repair_precision": 0.0, "repair_valid": 0, "repair_n_lenL": 86, "ambiguous": true}
+{"name": "Depots/p03/plan-2", "domain": "Depots", "L": 44, "gold_pruned_precision": 1.0, "gold_n_lenL": 92, "repair_precision": 0.0, "repair_valid": 0, "repair_n_lenL": 204, "ambiguous": true}
+{"name": "Depots/p16/plan-4", "domain": "Depots", "L": 41, "gold_pruned_precision": 1.0, "gold_n_lenL": 116, "repair_precision": 0.0, "repair_valid": 0, "repair_n_lenL": 25, "ambiguous": true}
+{"name": "Depots/p16/plan-1", "domain": "Depots", "L": 41, "gold_pruned_precision": 1.0, "gold_n_lenL": 86, "repair_precision": 0.0, "repair_valid": 0, "repair_n_lenL": 15, "ambiguous": true}
+{"name": "Rover-GTOHP/p06/plan-2", "domain": "Rover-GTOHP", "L": 49, "gold_pruned_precision": 1.0, "gold_n_lenL": 4, "repair_precision": 0.0, "repair_valid": 0, "repair_n_lenL": 300, "ambiguous": true}
+{"name": "Rover-GTOHP/p06/plan-1", "domain": "Rover-GTOHP", "L": 43, "gold_pruned_precision": null, "gold_n_lenL": 0, "repair_precision": 0.0, "repair_valid": 0, "repair_n_lenL": 300, "ambiguous": true}
+{"name": "Depots/p17/plan-1", "domain": "Depots", "L": 50, "gold_pruned_precision": 1.0, "gold_n_lenL": 59, "repair_precision": 0.0, "repair_valid": 0, "repair_n_lenL": 11, "ambiguous": true}
+{"name": "Depots/p17/plan-2", "domain": "Depots", "L": 43, "gold_pruned_precision": 1.0, "gold_n_lenL": 85, "repair_precision": 0.0, "repair_valid": 0, "repair_n_lenL": 27, "ambiguous": true}
+{"name": "Satellite-GTOHP/p04/plan-1", "domain": "Satellite-GTOHP", "L": 46, "gold_pruned_precision": 1.0, "gold_n_lenL": 54, "repair_precision": 0.0, "repair_valid": 0, "repair_n_lenL": 3, "ambiguous": true}
+{"name": "Satellite-GTOHP/p04/plan-2", "domain": "Satellite-GTOHP", "L": 50, "gold_pruned_precision": 1.0, "gold_n_lenL": 10, "repair_precision": 0.0, "repair_valid": 0, "repair_n_lenL": 4, "ambiguous": true}
+{"name": "Satellite-GTOHP/p08/plan-1", "domain": "Satellite-GTOHP", "L": 48, "gold_pruned_precision": 1.0, "gold_n_lenL": 300, "repair_precision": 0.0, "repair_valid": 0, "repair_n_lenL": 34, "ambiguous": true}
+{"name": "Childsnack/p02/plan-1", "domain": "Childsnack", "L": 50, "gold_pruned_precision": 1.0, "gold_n_lenL": 1, "repair_precision": null, "repair_valid": 0, "repair_n_lenL": 0, "ambiguous": false}
+{"name": "Childsnack/p01/plan-2", "domain": "Childsnack", "L": 50, "gold_pruned_precision": 1.0, "gold_n_lenL": 1, "repair_precision": 0.0556, "repair_valid": 1, "repair_n_lenL": 18, "ambiguous": true}
+{"name": "Childsnack/p01/plan-5", "domain": "Childsnack", "L": 50, "gold_pruned_precision": 1.0, "gold_n_lenL": 1, "repair_precision": 1.0, "repair_valid": 1, "repair_n_lenL": 1, "ambiguous": false}
+{"name": "Childsnack/p01/plan-4", "domain": "Childsnack", "L": 50, "gold_pruned_precision": 1.0, "gold_n_lenL": 1, "repair_precision": 1.0, "repair_valid": 1, "repair_n_lenL": 1, "ambiguous": false}
+{"name": "Childsnack/p02/plan-2", "domain": "Childsnack", "L": 50, "gold_pruned_precision": 1.0, "gold_n_lenL": 1, "repair_precision": null, "repair_valid": 0, "repair_n_lenL": 0, "ambiguous": false}
+{"name": "Childsnack/p02/plan-5", "domain": "Childsnack", "L": 50, "gold_pruned_precision": 1.0, "gold_n_lenL": 1, "repair_precision": 1.0, "repair_valid": 1, "repair_n_lenL": 1, "ambiguous": false}
+{"name": "Childsnack/p02/plan-4", "domain": "Childsnack", "L": 50, "gold_pruned_precision": 1.0, "gold_n_lenL": 1, "repair_precision": 0.3333, "repair_valid": 1, "repair_n_lenL": 3, "ambiguous": true}
+{"name": "Childsnack/p02/plan-3", "domain": "Childsnack", "L": 50, "gold_pruned_precision": 1.0, "gold_n_lenL": 1, "repair_precision": 0.5, "repair_valid": 1, "repair_n_lenL": 2, "ambiguous": true}
+{"name": "Childsnack/p01/plan-1", "domain": "Childsnack", "L": 50, "gold_pruned_precision": 1.0, "gold_n_lenL": 1, "repair_precision": 1.0, "repair_valid": 1, "repair_n_lenL": 1, "ambiguous": false}
+{"name": "Woodworking/06--p02-complete/plan-1", "error": "gold_too_large"}
+{"name": "Woodworking/09--p03-complete/plan-2", "error": "gold_too_large"}
+{"name": "Woodworking/09--p03-complete/plan-1", "error": "gold_too_large"}
+{"name": "Hiking/p01/plan-4", "error": "gold_too_large"}
+{"name": "Hiking/p01/plan-3", "error": "gold_too_large"}
+{"name": "Hiking/p01/plan-2", "error": "gold_too_large"}
+{"name": "Hiking/p01/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Fully-Observable/pfile01-p-0092-set-up-shelter-no-pref-tlt/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Partially-Observable/pfile05-p-0100-fix-water-main-1/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Fully-Observable/pfile16-p-0062-clear-road-hazard-1-tlt/plan-2", "error": "gold_too_large"}
+{"name": "Monroe-Fully-Observable/pfile16-p-0062-clear-road-hazard-1-tlt/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Partially-Observable/pfile01-p-0014-fix-power-line-4/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Fully-Observable/pfile15-p-0081-clear-road-tree-1-tlt/plan-2", "error": "gold_too_large"}
+{"name": "Monroe-Fully-Observable/pfile15-p-0081-clear-road-tree-1-tlt/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Partially-Observable/pfile19-p-0084-provide-temp-heat-2/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Fully-Observable/pfile17-p-0005-clear-road-wreck-2-tlt/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Partially-Observable/pfile03-p-0022-provide-medical-attention-2/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Fully-Observable/pfile19-p-0037-clear-road-hazard-3-tlt/plan-2", "error": "gold_too_large"}
+{"name": "Monroe-Fully-Observable/pfile19-p-0037-clear-road-hazard-3-tlt/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Partially-Observable/pfile18-p-0086-provide-temp-heat-4/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Partially-Observable/pfile06-p-0090-quell-riot-7/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Partially-Observable/pfile12-p-0031-provide-temp-heat-4/plan-2", "error": "gold_too_large"}
+{"name": "Monroe-Partially-Observable/pfile12-p-0031-provide-temp-heat-4/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Fully-Observable/pfile20-p-0037-clear-road-hazard-4-tlt/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Fully-Observable/pfile07-p-0058-fix-water-main-5-tlt/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Fully-Observable/pfile07-p-0058-fix-water-main-5-tlt/plan-2", "error": "gold_too_large"}
+{"name": "Monroe-Partially-Observable/pfile20-p-0080-provide-temp-heat-5/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Partially-Observable/pfile16-p-0059-clear-road-hazard-9/plan-2", "error": "gold_too_large"}
+{"name": "Monroe-Partially-Observable/pfile16-p-0059-clear-road-hazard-9/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Fully-Observable/pfile05-p-0090-quell-riot-7-tlt/plan-1", "error": "gold_too_large"}
+{"name": "Hiking/p02/plan-3", "error": "gold_too_large"}
+{"name": "Hiking/p02/plan-2", "error": "gold_too_large"}
+{"name": "Monroe-Partially-Observable/pfile10-p-0092-set-up-shelter-6/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Partially-Observable/pfile07-p-0066-clear-road-wreck-10/plan-2", "error": "gold_too_large"}
+{"name": "Monroe-Partially-Observable/pfile07-p-0066-clear-road-wreck-10/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Fully-Observable/pfile08-p-0078-plow-road-5-tlt/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Fully-Observable/pfile12-p-0097-clear-road-tree-9-tlt/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Fully-Observable/pfile12-p-0097-clear-road-tree-9-tlt/plan-2", "error": "gold_too_large"}
+{"name": "Monroe-Fully-Observable/pfile09-p-0026-clear-road-tree-9-tlt/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Partially-Observable/pfile11-p-0052-provide-temp-heat-10/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Partially-Observable/pfile17-p-0030-provide-temp-heat-8/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Partially-Observable/pfile09-p-0026-clear-road-tree-14/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Fully-Observable/pfile11-p-0026-clear-road-tree-11-tlt/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Partially-Observable/pfile08-p-0026-clear-road-tree-17/plan-1", "error": "gold_too_large"}
+{"name": "Hiking/p08/plan-1", "error": "gold_too_large"}
+{"name": "Hiking/p08/plan-2", "error": "gold_too_large"}
+{"name": "Hiking/p08/plan-4", "error": "gold_too_large"}
+{"name": "Hiking/p08/plan-3", "error": "gold_too_large"}
+{"name": "Hiking/p09/plan-3", "error": "gold_too_large"}
+{"name": "Hiking/p09/plan-2", "error": "gold_too_large"}
+{"name": "Hiking/p09/plan-1", "error": "gold_too_large"}
+{"name": "Hiking/p15/plan-2", "error": "gold_too_large"}
+{"name": "Hiking/p15/plan-1", "error": "gold_too_large"}
+{"name": "Hiking/p16/plan-2", "error": "gold_too_large"}
+{"name": "Hiking/p16/plan-4", "error": "gold_too_large"}

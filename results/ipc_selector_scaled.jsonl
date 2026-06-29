@@ -1,0 +1,54 @@
+{"path": "Woodworking/03--p02-part2/plan-2", "domain": "Woodworking", "min_cost": 2, "n_mincost": 17, "n_neg": 20, "cost_only_expected": 0.9971, "cost_only_worst": 0.95, "conformance": 1.0, "gain": 0.0029, "gap": 0.0588}
+{"path": "Monroe-Partially-Observable/pfile01-p-0014-fix-power-line-4/plan-1", "domain": "Monroe-Partially-Observable", "min_cost": 1, "n_mincost": 2, "n_neg": 51, "cost_only_expected": 1.0, "cost_only_worst": 1.0, "conformance": 1.0, "gain": 0.0, "gap": 0.0}
+{"path": "Satellite-GTOHP/p01/plan-2", "domain": "Satellite-GTOHP", "error": "timeout"}
+{"path": "Monroe-Partially-Observable/pfile03-p-0022-provide-medical-attention-2/plan-1", "domain": "Monroe-Partially-Observable", "min_cost": 1, "n_mincost": 5, "n_neg": 34, "cost_only_expected": 1.0, "cost_only_worst": 1.0, "conformance": 1.0, "gain": 0.0, "gap": 0.0}
+{"path": "Woodworking/06--p02-complete/plan-1", "domain": "Woodworking", "error": "timeout"}
+{"path": "Monroe-Fully-Observable/pfile08-p-0078-plow-road-5-tlt/plan-1", "domain": "Monroe-Fully-Observable", "min_cost": 1, "n_mincost": 3, "n_neg": 250, "cost_only_expected": 1.0, "cost_only_worst": 1.0, "conformance": 1.0, "gain": 0.0, "gap": 0.0}
+{"path": "Depots/p01/plan-1", "domain": "Depots", "error": "timeout"}
+{"path": "Depots/p01/plan-2", "domain": "Depots", "error": "timeout"}
+{"path": "Depots/p01/plan-3", "domain": "Depots", "min_cost": 1, "n_mincost": 3, "n_neg": 250, "cost_only_expected": 0.992, "cost_only_worst": 0.992, "conformance": 0.992, "gain": 0.0, "gap": 1.0}
+{"path": "Satellite-GTOHP/p03/plan-3", "domain": "Satellite-GTOHP", "error": "timeout"}
+{"path": "Rover-GTOHP/p01/plan-1", "domain": "Rover-GTOHP", "error": "timeout"}
+{"path": "Monroe-Partially-Observable/pfile05-p-0100-fix-water-main-1/plan-1", "domain": "Monroe-Partially-Observable", "error": "timeout"}
+{"path": "Rover-GTOHP/p03/plan-4", "domain": "Rover-GTOHP", "error": "timeout"}
+{"path": "Satellite-GTOHP/p01/plan-1", "domain": "Satellite-GTOHP", "min_cost": 1, "n_mincost": 2, "n_neg": 250, "cost_only_expected": 0.992, "cost_only_worst": 0.992, "conformance": 0.992, "gain": 0.0, "gap": 1.0}
+{"path": "Rover-GTOHP/p03/plan-6", "domain": "Rover-GTOHP", "error": "timeout"}
+{"path": "Monroe-Fully-Observable/pfile05-p-0090-quell-riot-7-tlt/plan-1", "domain": "Monroe-Fully-Observable", "min_cost": 1, "n_mincost": 26, "n_neg": 250, "cost_only_expected": 0.9963, "cost_only_worst": 0.996, "conformance": 1.0, "gain": 0.0037, "gap": 0.9231}
+{"path": "Monroe-Partially-Observable/pfile06-p-0090-quell-riot-7/plan-1", "domain": "Monroe-Partially-Observable", "error": "timeout"}
+{"path": "Rover-GTOHP/p03/plan-2", "domain": "Rover-GTOHP", "error": "timeout"}
+{"path": "Rover-GTOHP/p01/plan-4", "domain": "Rover-GTOHP", "error": "timeout"}
+{"path": "Satellite-GTOHP/p03/plan-4", "domain": "Satellite-GTOHP", "error": "timeout"}
+{"path": "Satellite-GTOHP/p03/plan-2", "domain": "Satellite-GTOHP", "error": "timeout"}
+{"path": "Rover-GTOHP/p03/plan-5", "domain": "Rover-GTOHP", "error": "timeout"}
+{"path": "Blocksworld-GTOHP/p01/plan-1", "domain": "Blocksworld-GTOHP", "error": "timeout"}
+{"path": "Satellite-GTOHP/p02/plan-1", "domain": "Satellite-GTOHP", "error": "timeout"}
+{"path": "Blocksworld-GTOHP/p01/plan-2", "domain": "Blocksworld-GTOHP", "error": "timeout"}
+{"path": "Rover-GTOHP/p01/plan-3", "domain": "Rover-GTOHP", "error": "timeout"}
+{"path": "Woodworking/09--p03-complete/plan-1", "domain": "Woodworking", "error": "timeout"}
+{"path": "Transport/pfile04/plan-1", "domain": "Transport", "error": "timeout"}
+{"path": "Monroe-Fully-Observable/pfile17-p-0005-clear-road-wreck-2-tlt/plan-1", "domain": "Monroe-Fully-Observable", "error": "timeout"}
+{"path": "Monroe-Fully-Observable/pfile16-p-0062-clear-road-hazard-1-tlt/plan-2", "domain": "Monroe-Fully-Observable", "error": "timeout"}
+{"path": "Woodworking/09--p03-complete/plan-2", "domain": "Woodworking", "error": "timeout"}
+{"path": "Entertainment/pfile02/plan-2", "domain": "Entertainment", "error": "timeout"}
+{"path": "Rover-GTOHP/p03/plan-3", "domain": "Rover-GTOHP", "error": "timeout"}
+{"path": "Satellite-GTOHP/p03/plan-1", "domain": "Satellite-GTOHP", "min_cost": 1, "n_mincost": 1, "n_neg": 250, "cost_only_expected": 1.0, "cost_only_worst": 1.0, "conformance": 1.0, "gain": 0.0, "gap": 0.0}
+{"path": "Monroe-Fully-Observable/pfile15-p-0081-clear-road-tree-1-tlt/plan-1", "domain": "Monroe-Fully-Observable", "min_cost": 1, "n_mincost": 4, "n_neg": 250, "cost_only_expected": 1.0, "cost_only_worst": 1.0, "conformance": 1.0, "gain": 0.0, "gap": 0.0}
+{"path": "Monroe-Fully-Observable/pfile07-p-0058-fix-water-main-5-tlt/plan-1", "domain": "Monroe-Fully-Observable", "error": "timeout"}
+{"path": "Entertainment/pfile02/plan-1", "domain": "Entertainment", "error": "timeout"}
+{"path": "Hiking/p01/plan-3", "domain": "Hiking", "error": "timeout"}
+{"path": "Hiking/p01/plan-2", "domain": "Hiking", "error": "timeout"}
+{"path": "Rover-GTOHP/p02/plan-3", "domain": "Rover-GTOHP", "error": "timeout"}
+{"path": "Monroe-Fully-Observable/pfile01-p-0092-set-up-shelter-no-pref-tlt/plan-1", "domain": "Monroe-Fully-Observable", "error": "timeout"}
+{"path": "Hiking/p01/plan-1", "domain": "Hiking", "error": "timeout"}
+{"path": "Satellite-GTOHP/p02/plan-3", "domain": "Satellite-GTOHP", "error": "timeout"}
+{"path": "Rover-GTOHP/p02/plan-5", "domain": "Rover-GTOHP", "error": "timeout"}
+{"path": "Hiking/p01/plan-4", "domain": "Hiking", "error": "timeout"}
+{"path": "Transport/pfile11/plan-1", "domain": "Transport", "min_cost": 1, "n_mincost": 3, "n_neg": 43, "cost_only_expected": 0.9845, "cost_only_worst": 0.9767, "conformance": 1.0, "gain": 0.0155, "gap": 0.6667}
+{"path": "Transport/pfile13/plan-3", "domain": "Transport", "error": "timeout"}
+{"path": "Rover-GTOHP/p02/plan-1", "domain": "Rover-GTOHP", "error": "timeout"}
+{"path": "Transport/pfile13/plan-2", "domain": "Transport", "min_cost": 1, "n_mincost": 8, "n_neg": 48, "cost_only_expected": 0.9896, "cost_only_worst": 0.9792, "conformance": 1.0, "gain": 0.0104, "gap": 0.5}
+{"path": "Rover-GTOHP/p03/plan-1", "domain": "Rover-GTOHP", "error": "timeout"}
+{"path": "Hiking/p08/plan-1", "domain": "Hiking", "error": "timeout"}
+{"path": "Hiking/p08/plan-4", "domain": "Hiking", "error": "timeout"}
+{"path": "Hiking/p08/plan-3", "domain": "Hiking", "error": "timeout"}
+{"path": "Monroe-Fully-Observable/pfile15-p-0081-clear-road-tree-1-tlt/plan-2", "domain": "Monroe-Fully-Observable", "min_cost": 1, "n_mincost": 8, "n_neg": 250, "cost_only_expected": 1.0, "cost_only_worst": 1.0, "conformance": 1.0, "gain": 0.0, "gap": 0.0}

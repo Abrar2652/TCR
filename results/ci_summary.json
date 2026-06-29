@@ -1,0 +1,171 @@
+{
+  "overgen": {
+    "o4-mini": {
+      "n_scored": 88,
+      "n_ambiguous": 76,
+      "frac_ambiguous": 0.8636,
+      "ambiguous_mean": 0.1029,
+      "ambiguous_mean_ci95": [
+        0.0539,
+        0.1627
+      ],
+      "ambiguous_median": 0.0033,
+      "unconditional_mean": 0.2139,
+      "unconditional_mean_ci95": [
+        0.1387,
+        0.2967
+      ],
+      "unconditional_frac_below_0.5": 0.8068
+    },
+    "gpt-oss-120b": {
+      "n_scored": 86,
+      "n_ambiguous": 77,
+      "frac_ambiguous": 0.8953,
+      "ambiguous_mean": 0.1283,
+      "ambiguous_mean_ci95": [
+        0.0747,
+        0.1899
+      ],
+      "ambiguous_median": 0.0033,
+      "unconditional_mean": 0.2195,
+      "unconditional_mean_ci95": [
+        0.1462,
+        0.2967
+      ],
+      "unconditional_frac_below_0.5": 0.7791
+    }
+  },
+  "audit_over_accept": {
+    "o4-mini": {
+      "metric": "negative-set",
+      "n": 145,
+      "over_accept": 58,
+      "rate": 0.4,
+      "rate_ci95_wilson": [
+        0.3238,
+        0.4813
+      ]
+    },
+    "gpt-oss-120b": {
+      "metric": "negative-set",
+      "n": 140,
+      "over_accept": 67,
+      "rate": 0.4786,
+      "rate_ci95_wilson": [
+        0.3975,
+        0.5608
+      ]
+    }
+  },
+  "po_indifference": {
+    "n_methods": 111,
+    "n_gold_partial": 0,
+    "cost_only_expected": 0.5723,
+    "cost_only_expected_ci95": [
+      0.544,
+      0.5988
+    ],
+    "cost_only_worst": 0.2617,
+    "cost_only_worst_ci95": [
+      0.2339,
+      0.2889
+    ],
+    "conformance": 1.0,
+    "mean_gap_over_indifference_set": 0.5923,
+    "frac_methods_with_gap": 1.0,
+    "per_domain": {
+      "Barman-BDI": {
+        "n": 11,
+        "cost_only_expected": 0.5947,
+        "cost_only_worst": 0.25,
+        "mean_gap": 0.5455
+      },
+      "Rover": {
+        "n": 14,
+        "cost_only_expected": 0.5655,
+        "cost_only_worst": 0.2679,
+        "mean_gap": 0.6071
+      },
+      "Satellite": {
+        "n": 10,
+        "cost_only_expected": 0.675,
+        "cost_only_worst": 0.4,
+        "mean_gap": 0.55
+      },
+      "Transport": {
+        "n": 1,
+        "cost_only_expected": 0.75,
+        "cost_only_worst": 0.5,
+        "mean_gap": 0.5
+      },
+      "UM-Translog": {
+        "n": 72,
+        "cost_only_expected": 0.5524,
+        "cost_only_worst": 0.2391,
+        "mean_gap": 0.6042
+      },
+      "Woodworking": {
+        "n": 3,
+        "cost_only_expected": 0.5972,
+        "cost_only_worst": 0.2778,
+        "mean_gap": 0.5833
+      }
+    }
+  },
+  "escaping_sample_size_sensitivity": {
+    "Depots/p01/plan-1": {
+      "100": [
+        0.1112,
+        0.0053
+      ],
+      "200": [
+        0.1112,
+        0.0053
+      ],
+      "400": [
+        0.1112,
+        0.0053
+      ],
+      "800": [
+        0.1112,
+        0.0053
+      ]
+    },
+    "Satellite-GTOHP/p01/plan-2": {
+      "100": [
+        0.04,
+        0.0
+      ],
+      "200": [
+        0.0385,
+        0.001
+      ],
+      "400": [
+        0.0385,
+        0.001
+      ],
+      "800": [
+        0.0385,
+        0.001
+      ]
+    },
+    "Rover-GTOHP/p01/plan-1": {
+      "100": [
+        0.036,
+        0.012
+      ],
+      "200": [
+        0.025,
+        0.0045
+      ],
+      "400": [
+        0.0185,
+        0.0012
+      ],
+      "800": [
+        0.0116,
+        0.0004
+      ]
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "timeline_conformance": [
+    {
+      "family": "linear_control",
+      "n_instances": 20,
+      "mean_timeline_gap": 0.0,
+      "mean_fraction_timeline_conformant": 1.0
+    },
+    {
+      "family": "branch_suffix",
+      "n_instances": 20,
+      "mean_timeline_gap": 0.6667,
+      "mean_fraction_timeline_conformant": 0.3333
+    },
+    {
+      "family": "shared_setup",
+      "n_instances": 20,
+      "mean_timeline_gap": 0.6667,
+      "mean_fraction_timeline_conformant": 0.3333
+    },
+    {
+      "family": "finish_suffix",
+      "n_instances": 20,
+      "mean_timeline_gap": 0.6667,
+      "mean_fraction_timeline_conformant": 0.3333
+    },
+    {
+      "family": "nested_phase",
+      "n_instances": 20,
+      "mean_timeline_gap": 0.6667,
+      "mean_fraction_timeline_conformant": 0.3333
+    }
+  ]
+}

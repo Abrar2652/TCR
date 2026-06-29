@@ -1,0 +1,145 @@
+{"name": "Entertainment/pfile02/plan-2", "domain": "Entertainment", "n_other_plans": 87, "n_derived": 38, "recall": 0.4368, "gold_methods": 20}
+{"name": "Entertainment/pfile02/plan-1", "domain": "Entertainment", "n_other_plans": 87, "n_derived": 47, "recall": 0.5402, "gold_methods": 20}
+{"name": "Woodworking/03--p02-part2/plan-2", "domain": "Woodworking", "n_other_plans": 200, "n_derived": 140, "recall": 0.7, "gold_methods": 29}
+{"name": "Satellite-GTOHP/p01/plan-2", "domain": "Satellite-GTOHP", "n_other_plans": 200, "n_derived": 0, "recall": 0.0, "gold_methods": 36}
+{"name": "Satellite-GTOHP/p01/plan-1", "domain": "Satellite-GTOHP", "n_other_plans": 200, "n_derived": 51, "recall": 0.255, "gold_methods": 36}
+{"name": "Blocksworld-GTOHP/p01/plan-2", "domain": "Blocksworld-GTOHP", "n_other_plans": 200, "n_derived": 15, "recall": 0.075, "gold_methods": 37}
+{"name": "Blocksworld-GTOHP/p01/plan-1", "domain": "Blocksworld-GTOHP", "n_other_plans": 200, "n_derived": 33, "recall": 0.165, "gold_methods": 37}
+{"name": "Entertainment/pfile01/plan-1", "domain": "Entertainment", "n_other_plans": 200, "n_derived": 84, "recall": 0.42, "gold_methods": 45}
+{"name": "Entertainment/pfile03/plan-1", "domain": "Entertainment", "n_other_plans": 200, "n_derived": 109, "recall": 0.545, "gold_methods": 57}
+{"name": "Entertainment/pfile03/plan-2", "domain": "Entertainment", "n_other_plans": 200, "n_derived": 120, "recall": 0.6, "gold_methods": 57}
+{"name": "Blocksworld-GTOHP/p03/plan-2", "domain": "Blocksworld-GTOHP", "n_other_plans": 200, "n_derived": 12, "recall": 0.06, "gold_methods": 63}
+{"name": "Blocksworld-GTOHP/p03/plan-1", "domain": "Blocksworld-GTOHP", "n_other_plans": 200, "n_derived": 0, "recall": 0.0, "gold_methods": 63}
+{"name": "Transport/pfile04/plan-1", "error": "no_other_gold_plans"}
+{"name": "Entertainment/pfile04/plan-3", "domain": "Entertainment", "n_other_plans": 200, "n_derived": 140, "recall": 0.7, "gold_methods": 65}
+{"name": "Entertainment/pfile04/plan-2", "domain": "Entertainment", "n_other_plans": 200, "n_derived": 160, "recall": 0.8, "gold_methods": 65}
+{"name": "Entertainment/pfile04/plan-1", "domain": "Entertainment", "n_other_plans": 200, "n_derived": 135, "recall": 0.675, "gold_methods": 65}
+{"name": "Blocksworld-GTOHP/p02/plan-1", "domain": "Blocksworld-GTOHP", "n_other_plans": 200, "n_derived": 40, "recall": 0.2, "gold_methods": 66}
+{"name": "Transport/pfile06/plan-1", "error": "no_other_gold_plans"}
+{"name": "Transport/pfile05/plan-1", "error": "no_other_gold_plans"}
+{"name": "Depots/p01/plan-1", "domain": "Depots", "n_other_plans": 200, "n_derived": 80, "recall": 0.4, "gold_methods": 80}
+{"name": "Depots/p01/plan-2", "domain": "Depots", "n_other_plans": 200, "n_derived": 107, "recall": 0.535, "gold_methods": 80}
+{"name": "Depots/p01/plan-3", "domain": "Depots", "n_other_plans": 200, "n_derived": 5, "recall": 0.025, "gold_methods": 80}
+{"name": "Rover-GTOHP/p01/plan-1", "domain": "Rover-GTOHP", "n_other_plans": 200, "n_derived": 0, "recall": 0.0, "gold_methods": 83}
+{"name": "Rover-GTOHP/p01/plan-2", "domain": "Rover-GTOHP", "n_other_plans": 200, "n_derived": 20, "recall": 0.1, "gold_methods": 83}
+{"name": "Rover-GTOHP/p01/plan-4", "domain": "Rover-GTOHP", "n_other_plans": 200, "n_derived": 0, "recall": 0.0, "gold_methods": 83}
+{"name": "Rover-GTOHP/p01/plan-3", "domain": "Rover-GTOHP", "n_other_plans": 200, "n_derived": 3, "recall": 0.015, "gold_methods": 83}
+{"name": "Rover-GTOHP/p02/plan-2", "domain": "Rover-GTOHP", "n_other_plans": 200, "n_derived": 39, "recall": 0.195, "gold_methods": 88}
+{"name": "Rover-GTOHP/p02/plan-5", "domain": "Rover-GTOHP", "n_other_plans": 200, "n_derived": 0, "recall": 0.0, "gold_methods": 88}
+{"name": "Rover-GTOHP/p02/plan-4", "domain": "Rover-GTOHP", "n_other_plans": 200, "n_derived": 48, "recall": 0.24, "gold_methods": 88}
+{"name": "Rover-GTOHP/p02/plan-3", "domain": "Rover-GTOHP", "n_other_plans": 200, "n_derived": 0, "recall": 0.0, "gold_methods": 88}
+{"name": "Rover-GTOHP/p02/plan-1", "domain": "Rover-GTOHP", "n_other_plans": 200, "n_derived": 0, "recall": 0.0, "gold_methods": 88}
+{"name": "Transport/pfile09/plan-1", "error": "no_other_gold_plans"}
+{"name": "Transport/pfile09/plan-3", "error": "no_other_gold_plans"}
+{"name": "Transport/pfile09/plan-2", "error": "no_other_gold_plans"}
+{"name": "Transport/pfile08/plan-2", "error": "no_other_gold_plans"}
+{"name": "Transport/pfile08/plan-3", "error": "no_other_gold_plans"}
+{"name": "Transport/pfile08/plan-1", "error": "no_other_gold_plans"}
+{"name": "Satellite-GTOHP/p02/plan-1", "error": "no_other_gold_plans"}
+{"name": "Satellite-GTOHP/p02/plan-2", "error": "no_other_gold_plans"}
+{"name": "Satellite-GTOHP/p02/plan-3", "error": "no_other_gold_plans"}
+{"name": "Satellite-GTOHP/p02/plan-4", "error": "no_other_gold_plans"}
+{"name": "Entertainment/pfile05/plan-1", "domain": "Entertainment", "n_other_plans": 200, "n_derived": 200, "recall": 1.0, "gold_methods": 108}
+{"name": "Entertainment/pfile05/plan-2", "domain": "Entertainment", "n_other_plans": 200, "n_derived": 200, "recall": 1.0, "gold_methods": 108}
+{"name": "Transport/pfile11/plan-1", "error": "no_other_gold_plans"}
+{"name": "Rover-GTOHP/p03/plan-1", "domain": "Rover-GTOHP", "n_other_plans": 200, "n_derived": 0, "recall": 0.0, "gold_methods": 112}
+{"name": "Rover-GTOHP/p03/plan-6", "domain": "Rover-GTOHP", "n_other_plans": 200, "n_derived": 0, "recall": 0.0, "gold_methods": 112}
+{"name": "Rover-GTOHP/p03/plan-3", "domain": "Rover-GTOHP", "n_other_plans": 200, "n_derived": 23, "recall": 0.115, "gold_methods": 112}
+{"name": "Rover-GTOHP/p03/plan-4", "domain": "Rover-GTOHP", "n_other_plans": 200, "n_derived": 147, "recall": 0.735, "gold_methods": 112}
+{"name": "Rover-GTOHP/p03/plan-5", "domain": "Rover-GTOHP", "n_other_plans": 200, "n_derived": 51, "recall": 0.255, "gold_methods": 112}
+{"name": "Rover-GTOHP/p03/plan-2", "domain": "Rover-GTOHP", "n_other_plans": 200, "n_derived": 36, "recall": 0.18, "gold_methods": 112}
+{"name": "Satellite-GTOHP/p03/plan-4", "error": "no_other_gold_plans"}
+{"name": "Satellite-GTOHP/p03/plan-3", "error": "no_other_gold_plans"}
+{"name": "Satellite-GTOHP/p03/plan-2", "error": "no_other_gold_plans"}
+{"name": "Satellite-GTOHP/p03/plan-1", "error": "no_other_gold_plans"}
+{"name": "Transport/pfile13/plan-1", "error": "no_other_gold_plans"}
+{"name": "Transport/pfile13/plan-3", "error": "no_other_gold_plans"}
+{"name": "Transport/pfile13/plan-2", "error": "no_other_gold_plans"}
+{"name": "Transport/pfile14/plan-3", "error": "no_other_gold_plans"}
+{"name": "Transport/pfile14/plan-2", "error": "no_other_gold_plans"}
+{"name": "Transport/pfile14/plan-1", "error": "no_other_gold_plans"}
+{"name": "Rover-GTOHP/p04/plan-1", "error": "no_other_gold_plans"}
+{"name": "Depots/p07/plan-1", "domain": "Depots", "n_other_plans": 200, "n_derived": 0, "recall": 0.0, "gold_methods": 194}
+{"name": "Depots/p07/plan-2", "domain": "Depots", "n_other_plans": 200, "n_derived": 85, "recall": 0.425, "gold_methods": 194}
+{"name": "Transport/pfile15/plan-1", "error": "no_other_gold_plans"}
+{"name": "Depots/p10/plan-2", "domain": "Depots", "n_other_plans": 200, "n_derived": 24, "recall": 0.12, "gold_methods": 203}
+{"name": "Depots/p10/plan-3", "domain": "Depots", "n_other_plans": 200, "n_derived": 0, "recall": 0.0, "gold_methods": 203}
+{"name": "Depots/p10/plan-1", "domain": "Depots", "n_other_plans": 200, "n_derived": 39, "recall": 0.195, "gold_methods": 203}
+{"name": "Depots/p13/plan-1", "domain": "Depots", "n_other_plans": 200, "n_derived": 65, "recall": 0.325, "gold_methods": 236}
+{"name": "Depots/p13/plan-2", "domain": "Depots", "n_other_plans": 200, "n_derived": 0, "recall": 0.0, "gold_methods": 236}
+{"name": "Depots/p14/plan-1", "domain": "Depots", "n_other_plans": 200, "n_derived": 93, "recall": 0.465, "gold_methods": 268}
+{"name": "Depots/p03/plan-1", "domain": "Depots", "n_other_plans": 200, "n_derived": 0, "recall": 0.0, "gold_methods": 285}
+{"name": "Depots/p03/plan-2", "domain": "Depots", "n_other_plans": 200, "n_derived": 0, "recall": 0.0, "gold_methods": 285}
+{"name": "Depots/p16/plan-4", "domain": "Depots", "n_other_plans": 200, "n_derived": 116, "recall": 0.58, "gold_methods": 675}
+{"name": "Depots/p16/plan-1", "domain": "Depots", "n_other_plans": 200, "n_derived": 121, "recall": 0.605, "gold_methods": 675}
+{"name": "Rover-GTOHP/p06/plan-2", "error": "no_other_gold_plans"}
+{"name": "Rover-GTOHP/p06/plan-1", "error": "no_other_gold_plans"}
+{"name": "Depots/p17/plan-1", "domain": "Depots", "n_other_plans": 200, "n_derived": 94, "recall": 0.47, "gold_methods": 1031}
+{"name": "Depots/p17/plan-2", "domain": "Depots", "n_other_plans": 200, "n_derived": 0, "recall": 0.0, "gold_methods": 1031}
+{"name": "Satellite-GTOHP/p04/plan-1", "error": "no_other_gold_plans"}
+{"name": "Satellite-GTOHP/p04/plan-2", "error": "no_other_gold_plans"}
+{"name": "Satellite-GTOHP/p08/plan-1", "error": "no_other_gold_plans"}
+{"name": "Childsnack/p02/plan-1", "error": "no_other_gold_plans"}
+{"name": "Childsnack/p01/plan-2", "error": "no_other_gold_plans"}
+{"name": "Childsnack/p01/plan-5", "error": "no_other_gold_plans"}
+{"name": "Childsnack/p01/plan-4", "error": "no_other_gold_plans"}
+{"name": "Childsnack/p02/plan-2", "error": "no_other_gold_plans"}
+{"name": "Childsnack/p02/plan-5", "error": "no_other_gold_plans"}
+{"name": "Childsnack/p02/plan-4", "error": "no_other_gold_plans"}
+{"name": "Childsnack/p02/plan-3", "error": "no_other_gold_plans"}
+{"name": "Childsnack/p01/plan-1", "error": "no_other_gold_plans"}
+{"name": "Woodworking/06--p02-complete/plan-1", "error": "gold_too_large"}
+{"name": "Woodworking/09--p03-complete/plan-2", "error": "gold_too_large"}
+{"name": "Woodworking/09--p03-complete/plan-1", "error": "gold_too_large"}
+{"name": "Hiking/p01/plan-4", "error": "gold_too_large"}
+{"name": "Hiking/p01/plan-3", "error": "gold_too_large"}
+{"name": "Hiking/p01/plan-2", "error": "gold_too_large"}
+{"name": "Hiking/p01/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Fully-Observable/pfile01-p-0092-set-up-shelter-no-pref-tlt/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Partially-Observable/pfile05-p-0100-fix-water-main-1/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Fully-Observable/pfile16-p-0062-clear-road-hazard-1-tlt/plan-2", "error": "gold_too_large"}
+{"name": "Monroe-Fully-Observable/pfile16-p-0062-clear-road-hazard-1-tlt/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Partially-Observable/pfile01-p-0014-fix-power-line-4/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Fully-Observable/pfile15-p-0081-clear-road-tree-1-tlt/plan-2", "error": "gold_too_large"}
+{"name": "Monroe-Fully-Observable/pfile15-p-0081-clear-road-tree-1-tlt/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Partially-Observable/pfile19-p-0084-provide-temp-heat-2/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Fully-Observable/pfile17-p-0005-clear-road-wreck-2-tlt/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Partially-Observable/pfile03-p-0022-provide-medical-attention-2/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Fully-Observable/pfile19-p-0037-clear-road-hazard-3-tlt/plan-2", "error": "gold_too_large"}
+{"name": "Monroe-Fully-Observable/pfile19-p-0037-clear-road-hazard-3-tlt/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Partially-Observable/pfile18-p-0086-provide-temp-heat-4/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Partially-Observable/pfile06-p-0090-quell-riot-7/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Partially-Observable/pfile12-p-0031-provide-temp-heat-4/plan-2", "error": "gold_too_large"}
+{"name": "Monroe-Partially-Observable/pfile12-p-0031-provide-temp-heat-4/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Fully-Observable/pfile20-p-0037-clear-road-hazard-4-tlt/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Fully-Observable/pfile07-p-0058-fix-water-main-5-tlt/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Fully-Observable/pfile07-p-0058-fix-water-main-5-tlt/plan-2", "error": "gold_too_large"}
+{"name": "Monroe-Partially-Observable/pfile20-p-0080-provide-temp-heat-5/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Partially-Observable/pfile16-p-0059-clear-road-hazard-9/plan-2", "error": "gold_too_large"}
+{"name": "Monroe-Partially-Observable/pfile16-p-0059-clear-road-hazard-9/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Fully-Observable/pfile05-p-0090-quell-riot-7-tlt/plan-1", "error": "gold_too_large"}
+{"name": "Hiking/p02/plan-3", "error": "gold_too_large"}
+{"name": "Hiking/p02/plan-2", "error": "gold_too_large"}
+{"name": "Monroe-Partially-Observable/pfile10-p-0092-set-up-shelter-6/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Partially-Observable/pfile07-p-0066-clear-road-wreck-10/plan-2", "error": "gold_too_large"}
+{"name": "Monroe-Partially-Observable/pfile07-p-0066-clear-road-wreck-10/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Fully-Observable/pfile08-p-0078-plow-road-5-tlt/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Fully-Observable/pfile12-p-0097-clear-road-tree-9-tlt/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Fully-Observable/pfile12-p-0097-clear-road-tree-9-tlt/plan-2", "error": "gold_too_large"}
+{"name": "Monroe-Fully-Observable/pfile09-p-0026-clear-road-tree-9-tlt/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Partially-Observable/pfile11-p-0052-provide-temp-heat-10/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Partially-Observable/pfile17-p-0030-provide-temp-heat-8/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Partially-Observable/pfile09-p-0026-clear-road-tree-14/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Fully-Observable/pfile11-p-0026-clear-road-tree-11-tlt/plan-1", "error": "gold_too_large"}
+{"name": "Monroe-Partially-Observable/pfile08-p-0026-clear-road-tree-17/plan-1", "error": "gold_too_large"}
+{"name": "Hiking/p08/plan-1", "error": "gold_too_large"}
+{"name": "Hiking/p08/plan-2", "error": "gold_too_large"}
+{"name": "Hiking/p08/plan-4", "error": "gold_too_large"}
+{"name": "Hiking/p08/plan-3", "error": "gold_too_large"}
+{"name": "Hiking/p09/plan-3", "error": "gold_too_large"}
+{"name": "Hiking/p09/plan-2", "error": "gold_too_large"}
+{"name": "Hiking/p09/plan-1", "error": "gold_too_large"}
+{"name": "Hiking/p15/plan-2", "error": "gold_too_large"}
+{"name": "Hiking/p15/plan-1", "error": "gold_too_large"}
+{"name": "Hiking/p16/plan-2", "error": "gold_too_large"}
+{"name": "Hiking/p16/plan-4", "error": "gold_too_large"}

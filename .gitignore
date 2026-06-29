@@ -1,0 +1,48 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+build/
+dist/
+.venv/
+venv/
+env/
+*.so
+
+# --- LaTeX build artifacts (paper.tex is tracked; its output is not) ---
+/paper.pdf
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# --- Large external benchmarks: download separately (see README "Data") ---
+/data/zenodo_lutalo/
+/data/ipc2020-domains/
+
+# --- Third-party paper PDFs: do not redistribute ---
+/sota_papers/
+
+# --- Internal notes, not for publication ---
+/Temporal-Conformance Repair for HTN Domains.md
+
+# --- Stray / scratch outputs ---
+/timeline_results.json
+scratch/
+*.tmp
+
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*~

@@ -1,0 +1,59 @@
+{
+  "audit_o4mini": {
+    "over_accept": 58,
+    "n": 145,
+    "mean_precision": 0.9907
+  },
+  "audit_gptoss": {
+    "over_accept": 67,
+    "n": 140,
+    "mean_precision": 0.9895
+  },
+  "selector_sample": [
+    {
+      "path": "Woodworking/03--p02-part2/plan-2",
+      "min_cost": 2,
+      "n_mincost": 17,
+      "cost_only_expected": 0.9863,
+      "conformance": 1.0,
+      "gain": 0.0137,
+      "gap": 0.4118
+    },
+    {
+      "path": "Satellite-GTOHP/p01/plan-1",
+      "min_cost": 1,
+      "n_mincost": 2,
+      "cost_only_expected": 0.9667,
+      "conformance": 0.9767,
+      "gain": 0.01,
+      "gap": 1.0
+    },
+    {
+      "path": "Transport/pfile06/plan-1",
+      "min_cost": 1,
+      "n_mincost": 1,
+      "cost_only_expected": 1.0,
+      "conformance": 1.0,
+      "gain": 0.0,
+      "gap": 0.0
+    },
+    {
+      "path": "Depots/p01/plan-3",
+      "min_cost": 1,
+      "n_mincost": 3,
+      "cost_only_expected": 0.9778,
+      "conformance": 0.98,
+      "gain": 0.0022,
+      "gap": 1.0
+    },
+    {
+      "path": "Transport/pfile11/plan-1",
+      "min_cost": 1,
+      "n_mincost": 3,
+      "cost_only_expected": 0.9845,
+      "conformance": 1.0,
+      "gain": 0.0155,
+      "gap": 0.6667
+    }
+  ]
+}

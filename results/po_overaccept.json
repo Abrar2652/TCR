@@ -1,0 +1,59 @@
+{
+  "drops": {
+    "0.0": {
+      "n_repaired_methods": 991,
+      "mean_local_precision": 0.2479,
+      "frac_affected": 1.0,
+      "mean_width": 3.38
+    },
+    "0.3": {
+      "n_repaired_methods": 991,
+      "mean_local_precision": 0.4273,
+      "frac_affected": 0.8547,
+      "mean_width": 3.38
+    },
+    "0.6": {
+      "n_repaired_methods": 991,
+      "mean_local_precision": 0.6562,
+      "frac_affected": 0.5782,
+      "mean_width": 3.38
+    },
+    "0.9": {
+      "n_repaired_methods": 991,
+      "mean_local_precision": 0.9117,
+      "frac_affected": 0.1635,
+      "mean_width": 3.38
+    }
+  },
+  "per_domain_at_0.6": {
+    "Blocksworld-GTOHP": {
+      "mean": 0.791,
+      "n": 59
+    },
+    "Depots": {
+      "mean": 0.6864,
+      "n": 458
+    },
+    "Entertainment": {
+      "mean": 0.2919,
+      "n": 45
+    },
+    "Rover-GTOHP": {
+      "mean": 0.602,
+      "n": 305
+    },
+    "Satellite-GTOHP": {
+      "mean": 0.7455,
+      "n": 55
+    },
+    "Transport": {
+      "mean": 0.7426,
+      "n": 68
+    },
+    "Woodworking": {
+      "mean": 1.0,
+      "n": 1
+    }
+  },
+  "n_instances": 80
+}

@@ -1,0 +1,66 @@
+{
+  "per_domain": {
+    "Barman-BDI": {
+      "n": 11,
+      "baseline_precision": 0.25,
+      "cegis_precision": 1.0,
+      "mean_counterexamples": 1.18
+    },
+    "Monroe-Fully-Observable": {
+      "n": 81,
+      "baseline_precision": 0.3136,
+      "cegis_precision": 1.0,
+      "mean_counterexamples": 1.2
+    },
+    "Monroe-Partially-Observable": {
+      "n": 79,
+      "baseline_precision": 0.3141,
+      "cegis_precision": 1.0,
+      "mean_counterexamples": 1.2
+    },
+    "PCP": {
+      "n": 504,
+      "baseline_precision": 0.19,
+      "cegis_precision": 1.0,
+      "mean_counterexamples": 1.42
+    },
+    "Rover": {
+      "n": 14,
+      "baseline_precision": 0.2679,
+      "cegis_precision": 1.0,
+      "mean_counterexamples": 1.43
+    },
+    "Satellite": {
+      "n": 10,
+      "baseline_precision": 0.4,
+      "cegis_precision": 1.0,
+      "mean_counterexamples": 1.2
+    },
+    "Transport": {
+      "n": 1,
+      "baseline_precision": 0.5,
+      "cegis_precision": 1.0,
+      "mean_counterexamples": 1
+    },
+    "UM-Translog": {
+      "n": 72,
+      "baseline_precision": 0.2391,
+      "cegis_precision": 1.0,
+      "mean_counterexamples": 1.42
+    },
+    "Woodworking": {
+      "n": 3,
+      "baseline_precision": 0.2778,
+      "cegis_precision": 1.0,
+      "mean_counterexamples": 1.33
+    }
+  },
+  "overall": {
+    "n": 775,
+    "baseline_precision": 0.2258,
+    "cegis_precision": 1.0,
+    "mean_counterexamples_to_recover": 1.37,
+    "mean_missing_edges": 1.37,
+    "frac_reaching_precision_1": 1.0
+  }
+}

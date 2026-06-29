@@ -1,0 +1,204 @@
+{
+  "selector_comparison": [
+    {
+      "family": "linear_control",
+      "regime": "permute_oracle",
+      "n": 20,
+      "fitness_all": 1.0,
+      "precision_cost_only_expected": 1.0,
+      "precision_cost_only_worst": 1.0,
+      "precision_conformance": 1.0,
+      "precision_gain_vs_expected": 0.0
+    },
+    {
+      "family": "linear_control",
+      "regime": "mutate_guaranteed",
+      "n": 20,
+      "fitness_all": 1.0,
+      "precision_cost_only_expected": 1.0,
+      "precision_cost_only_worst": 1.0,
+      "precision_conformance": 1.0,
+      "precision_gain_vs_expected": 0.0
+    },
+    {
+      "family": "linear_control",
+      "regime": "edit_neighborhood",
+      "n": 20,
+      "fitness_all": 1.0,
+      "precision_cost_only_expected": 1.0,
+      "precision_cost_only_worst": 1.0,
+      "precision_conformance": 1.0,
+      "precision_gain_vs_expected": 0.0
+    },
+    {
+      "family": "linear_control",
+      "regime": "gold_structural",
+      "n": 20,
+      "fitness_all": 1.0,
+      "precision_cost_only_expected": 1.0,
+      "precision_cost_only_worst": 1.0,
+      "precision_conformance": 1.0,
+      "precision_gain_vs_expected": 0.0
+    },
+    {
+      "family": "branch_suffix",
+      "regime": "permute_oracle",
+      "n": 20,
+      "fitness_all": 1.0,
+      "precision_cost_only_expected": 1.0,
+      "precision_cost_only_worst": 1.0,
+      "precision_conformance": 1.0,
+      "precision_gain_vs_expected": 0.0
+    },
+    {
+      "family": "branch_suffix",
+      "regime": "mutate_guaranteed",
+      "n": 20,
+      "fitness_all": 1.0,
+      "precision_cost_only_expected": 1.0,
+      "precision_cost_only_worst": 1.0,
+      "precision_conformance": 1.0,
+      "precision_gain_vs_expected": 0.0
+    },
+    {
+      "family": "branch_suffix",
+      "regime": "edit_neighborhood",
+      "n": 20,
+      "fitness_all": 1.0,
+      "precision_cost_only_expected": 0.9984,
+      "precision_cost_only_worst": 0.9977,
+      "precision_conformance": 1.0,
+      "precision_gain_vs_expected": 0.0016
+    },
+    {
+      "family": "branch_suffix",
+      "regime": "gold_structural",
+      "n": 20,
+      "fitness_all": 1.0,
+      "precision_cost_only_expected": 0.9597,
+      "precision_cost_only_worst": 0.9395,
+      "precision_conformance": 1.0,
+      "precision_gain_vs_expected": 0.0403
+    },
+    {
+      "family": "shared_setup",
+      "regime": "permute_oracle",
+      "n": 20,
+      "fitness_all": 1.0,
+      "precision_cost_only_expected": 1.0,
+      "precision_cost_only_worst": 1.0,
+      "precision_conformance": 1.0,
+      "precision_gain_vs_expected": 0.0
+    },
+    {
+      "family": "shared_setup",
+      "regime": "mutate_guaranteed",
+      "n": 20,
+      "fitness_all": 1.0,
+      "precision_cost_only_expected": 1.0,
+      "precision_cost_only_worst": 1.0,
+      "precision_conformance": 1.0,
+      "precision_gain_vs_expected": 0.0
+    },
+    {
+      "family": "shared_setup",
+      "regime": "edit_neighborhood",
+      "n": 20,
+      "fitness_all": 1.0,
+      "precision_cost_only_expected": 0.9958,
+      "precision_cost_only_worst": 0.9938,
+      "precision_conformance": 1.0,
+      "precision_gain_vs_expected": 0.0042
+    },
+    {
+      "family": "shared_setup",
+      "regime": "gold_structural",
+      "n": 20,
+      "fitness_all": 1.0,
+      "precision_cost_only_expected": 0.9539,
+      "precision_cost_only_worst": 0.9308,
+      "precision_conformance": 1.0,
+      "precision_gain_vs_expected": 0.0461
+    },
+    {
+      "family": "finish_suffix",
+      "regime": "permute_oracle",
+      "n": 20,
+      "fitness_all": 1.0,
+      "precision_cost_only_expected": 1.0,
+      "precision_cost_only_worst": 1.0,
+      "precision_conformance": 1.0,
+      "precision_gain_vs_expected": 0.0
+    },
+    {
+      "family": "finish_suffix",
+      "regime": "mutate_guaranteed",
+      "n": 20,
+      "fitness_all": 1.0,
+      "precision_cost_only_expected": 1.0,
+      "precision_cost_only_worst": 1.0,
+      "precision_conformance": 1.0,
+      "precision_gain_vs_expected": 0.0
+    },
+    {
+      "family": "finish_suffix",
+      "regime": "edit_neighborhood",
+      "n": 20,
+      "fitness_all": 1.0,
+      "precision_cost_only_expected": 0.999,
+      "precision_cost_only_worst": 0.9984,
+      "precision_conformance": 1.0,
+      "precision_gain_vs_expected": 0.001
+    },
+    {
+      "family": "finish_suffix",
+      "regime": "gold_structural",
+      "n": 20,
+      "fitness_all": 1.0,
+      "precision_cost_only_expected": 0.9593,
+      "precision_cost_only_worst": 0.9389,
+      "precision_conformance": 1.0,
+      "precision_gain_vs_expected": 0.0407
+    },
+    {
+      "family": "nested_phase",
+      "regime": "permute_oracle",
+      "n": 20,
+      "fitness_all": 1.0,
+      "precision_cost_only_expected": 1.0,
+      "precision_cost_only_worst": 1.0,
+      "precision_conformance": 1.0,
+      "precision_gain_vs_expected": 0.0
+    },
+    {
+      "family": "nested_phase",
+      "regime": "mutate_guaranteed",
+      "n": 20,
+      "fitness_all": 1.0,
+      "precision_cost_only_expected": 1.0,
+      "precision_cost_only_worst": 1.0,
+      "precision_conformance": 1.0,
+      "precision_gain_vs_expected": 0.0
+    },
+    {
+      "family": "nested_phase",
+      "regime": "edit_neighborhood",
+      "n": 20,
+      "fitness_all": 1.0,
+      "precision_cost_only_expected": 0.999,
+      "precision_cost_only_worst": 0.9984,
+      "precision_conformance": 1.0,
+      "precision_gain_vs_expected": 0.001
+    },
+    {
+      "family": "nested_phase",
+      "regime": "gold_structural",
+      "n": 20,
+      "fitness_all": 1.0,
+      "precision_cost_only_expected": 0.964,
+      "precision_cost_only_worst": 0.9461,
+      "precision_conformance": 1.0,
+      "precision_gain_vs_expected": 0.036
+    }
+  ]
+}

@@ -1,0 +1,596 @@
+[
+ {
+  "prob": "Blocksworld-GTOHP/p01",
+  "plan": "plan-1",
+  "kind": "single",
+  "rec_flaw": 0.153,
+  "rec_rep": 0.187,
+  "regressions": 0,
+  "n_others": 1
+ },
+ {
+  "prob": "Blocksworld-GTOHP/p01",
+  "plan": "plan-2",
+  "kind": "single",
+  "rec_flaw": 0.133,
+  "rec_rep": 0.107,
+  "regressions": 0,
+  "n_others": 1
+ },
+ {
+  "prob": "Blocksworld-GTOHP/p01",
+  "plan": "ALL",
+  "kind": "multi",
+  "rec_rep": 0.0,
+  "rec_gold": 1.0,
+  "nplans": 2,
+  "ntest": 150
+ },
+ {
+  "prob": "Blocksworld-GTOHP/p03",
+  "plan": "plan-1",
+  "kind": "single",
+  "rec_flaw": 0.26,
+  "rec_rep": 0.0,
+  "regressions": 0,
+  "n_others": 1
+ },
+ {
+  "prob": "Blocksworld-GTOHP/p03",
+  "plan": "plan-2",
+  "kind": "single",
+  "rec_flaw": 0.147,
+  "rec_rep": 0.04,
+  "regressions": 0,
+  "n_others": 1
+ },
+ {
+  "prob": "Blocksworld-GTOHP/p03",
+  "plan": "ALL",
+  "kind": "multi",
+  "rec_rep": 0.0,
+  "rec_gold": 1.0,
+  "nplans": 2,
+  "ntest": 150
+ },
+ {
+  "prob": "Depots/p01",
+  "plan": "plan-1",
+  "kind": "single",
+  "rec_flaw": 0.187,
+  "rec_rep": 0.413,
+  "regressions": 0,
+  "n_others": 2
+ },
+ {
+  "prob": "Depots/p01",
+  "plan": "plan-2",
+  "kind": "single",
+  "rec_flaw": 0.373,
+  "rec_rep": 0.62,
+  "regressions": 0,
+  "n_others": 2
+ },
+ {
+  "prob": "Depots/p01",
+  "plan": "plan-3",
+  "kind": "single",
+  "rec_flaw": 0.033,
+  "rec_rep": 0.033,
+  "regressions": 0,
+  "n_others": 2
+ },
+ {
+  "prob": "Depots/p01",
+  "plan": "ALL",
+  "kind": "multi",
+  "rec_rep": 0.647,
+  "rec_gold": 1.0,
+  "nplans": 3,
+  "ntest": 150
+ },
+ {
+  "prob": "Depots/p03",
+  "plan": "plan-1",
+  "kind": "single",
+  "rec_flaw": 0.433,
+  "rec_rep": 0.0,
+  "regressions": 0,
+  "n_others": 2
+ },
+ {
+  "prob": "Depots/p03",
+  "plan": "plan-2",
+  "kind": "single",
+  "rec_flaw": 0.353,
+  "rec_rep": 0.0,
+  "regressions": 0,
+  "n_others": 2
+ },
+ {
+  "prob": "Depots/p03",
+  "plan": "plan-3",
+  "kind": "single",
+  "rec_flaw": 0.307,
+  "rec_rep": 0.013,
+  "regressions": 0,
+  "n_others": 2
+ },
+ {
+  "prob": "Depots/p03",
+  "plan": "ALL",
+  "kind": "multi",
+  "rec_rep": 0.0,
+  "rec_gold": 1.0,
+  "nplans": 3,
+  "ntest": 150
+ },
+ {
+  "prob": "Depots/p07",
+  "plan": "plan-1",
+  "kind": "single",
+  "rec_flaw": 0.213,
+  "rec_rep": 0.0,
+  "regressions": 0,
+  "n_others": 1
+ },
+ {
+  "prob": "Depots/p07",
+  "plan": "plan-2",
+  "kind": "single",
+  "rec_flaw": 0.373,
+  "rec_rep": 0.267,
+  "regressions": 0,
+  "n_others": 1
+ },
+ {
+  "prob": "Depots/p07",
+  "plan": "ALL",
+  "kind": "multi",
+  "rec_rep": 0.0,
+  "rec_gold": 1.0,
+  "nplans": 2,
+  "ntest": 150
+ },
+ {
+  "prob": "Depots/p10",
+  "plan": "plan-1",
+  "kind": "single",
+  "rec_flaw": 0.247,
+  "rec_rep": 0.253,
+  "regressions": 0,
+  "n_others": 2
+ },
+ {
+  "prob": "Depots/p10",
+  "plan": "plan-2",
+  "kind": "single",
+  "rec_flaw": 0.26,
+  "rec_rep": 0.153,
+  "regressions": 0,
+  "n_others": 2
+ },
+ {
+  "prob": "Depots/p10",
+  "plan": "plan-3",
+  "kind": "single",
+  "rec_flaw": 0.173,
+  "rec_rep": 0.0,
+  "regressions": 0,
+  "n_others": 2
+ },
+ {
+  "prob": "Depots/p10",
+  "plan": "ALL",
+  "kind": "multi",
+  "rec_rep": 0.0,
+  "rec_gold": 1.0,
+  "nplans": 3,
+  "ntest": 150
+ },
+ {
+  "prob": "Depots/p13",
+  "plan": "plan-1",
+  "kind": "single",
+  "rec_flaw": 0.267,
+  "rec_rep": 0.413,
+  "regressions": 0,
+  "n_others": 1
+ },
+ {
+  "prob": "Depots/p13",
+  "plan": "plan-2",
+  "kind": "single",
+  "rec_flaw": 0.533,
+  "rec_rep": 0.0,
+  "regressions": 0,
+  "n_others": 1
+ },
+ {
+  "prob": "Depots/p13",
+  "plan": "ALL",
+  "kind": "multi",
+  "rec_rep": 0.0,
+  "rec_gold": 1.0,
+  "nplans": 2,
+  "ntest": 150
+ },
+ {
+  "prob": "Depots/p16",
+  "plan": "plan-1",
+  "kind": "single",
+  "rec_flaw": 0.633,
+  "rec_rep": 0.633,
+  "regressions": 0,
+  "n_others": 3
+ },
+ {
+  "prob": "Depots/p16",
+  "plan": "plan-2",
+  "kind": "single",
+  "rec_flaw": 0.653,
+  "rec_rep": 0.653,
+  "regressions": 0,
+  "n_others": 3
+ },
+ {
+  "prob": "Depots/p16",
+  "plan": "plan-3",
+  "kind": "single",
+  "rec_flaw": 0.56,
+  "rec_rep": 0.56,
+  "regressions": 0,
+  "n_others": 3
+ },
+ {
+  "prob": "Depots/p16",
+  "plan": "plan-4",
+  "kind": "single",
+  "rec_flaw": 0.58,
+  "rec_rep": 0.58,
+  "regressions": 0,
+  "n_others": 3
+ },
+ {
+  "prob": "Depots/p16",
+  "plan": "ALL",
+  "kind": "multi",
+  "rec_rep": 0.593,
+  "rec_gold": 1.0,
+  "nplans": 4,
+  "ntest": 150
+ },
+ {
+  "prob": "Depots/p17",
+  "plan": "plan-1",
+  "kind": "single",
+  "rec_flaw": 0.467,
+  "rec_rep": 0.467,
+  "regressions": 0,
+  "n_others": 1
+ },
+ {
+  "prob": "Depots/p17",
+  "plan": "plan-2",
+  "kind": "single",
+  "rec_flaw": 0.627,
+  "rec_rep": 0.0,
+  "regressions": 0,
+  "n_others": 1
+ },
+ {
+  "prob": "Depots/p17",
+  "plan": "ALL",
+  "kind": "multi",
+  "rec_rep": 0.0,
+  "rec_gold": 1.0,
+  "nplans": 2,
+  "ntest": 150
+ },
+ {
+  "prob": "Entertainment/pfile02",
+  "plan": "plan-1",
+  "kind": "single",
+  "rec_flaw": 0.058,
+  "rec_rep": 0.547,
+  "regressions": 0,
+  "n_others": 1
+ },
+ {
+  "prob": "Entertainment/pfile02",
+  "plan": "plan-2",
+  "kind": "single",
+  "rec_flaw": 0.058,
+  "rec_rep": 0.442,
+  "regressions": 0,
+  "n_others": 1
+ },
+ {
+  "prob": "Entertainment/pfile02",
+  "plan": "ALL",
+  "kind": "multi",
+  "rec_rep": 0.651,
+  "rec_gold": 1.0,
+  "nplans": 2,
+  "ntest": 86
+ },
+ {
+  "prob": "Entertainment/pfile03",
+  "plan": "plan-1",
+  "kind": "single",
+  "rec_flaw": 0.447,
+  "rec_rep": 0.653,
+  "regressions": 0,
+  "n_others": 1
+ },
+ {
+  "prob": "Entertainment/pfile03",
+  "plan": "plan-2",
+  "kind": "single",
+  "rec_flaw": 0.467,
+  "rec_rep": 0.7,
+  "regressions": 0,
+  "n_others": 1
+ },
+ {
+  "prob": "Entertainment/pfile03",
+  "plan": "ALL",
+  "kind": "multi",
+  "rec_rep": 0.753,
+  "rec_gold": 1.0,
+  "nplans": 2,
+  "ntest": 150
+ },
+ {
+  "prob": "Entertainment/pfile04",
+  "plan": "plan-1",
+  "kind": "single",
+  "rec_flaw": 0.7,
+  "rec_rep": 0.82,
+  "regressions": 0,
+  "n_others": 2
+ },
+ {
+  "prob": "Entertainment/pfile04",
+  "plan": "plan-2",
+  "kind": "single",
+  "rec_flaw": 0.76,
+  "rec_rep": 0.88,
+  "regressions": 0,
+  "n_others": 2
+ },
+ {
+  "prob": "Entertainment/pfile04",
+  "plan": "plan-3",
+  "kind": "single",
+  "rec_flaw": 0.713,
+  "rec_rep": 0.827,
+  "regressions": 0,
+  "n_others": 2
+ },
+ {
+  "prob": "Entertainment/pfile04",
+  "plan": "ALL",
+  "kind": "multi",
+  "rec_rep": 0.933,
+  "rec_gold": 1.0,
+  "nplans": 3,
+  "ntest": 150
+ },
+ {
+  "prob": "Entertainment/pfile05",
+  "plan": "plan-1",
+  "kind": "single",
+  "rec_flaw": 1.0,
+  "rec_rep": 1.0,
+  "regressions": 0,
+  "n_others": 1
+ },
+ {
+  "prob": "Entertainment/pfile05",
+  "plan": "plan-2",
+  "kind": "single",
+  "rec_flaw": 1.0,
+  "rec_rep": 1.0,
+  "regressions": 0,
+  "n_others": 1
+ },
+ {
+  "prob": "Entertainment/pfile05",
+  "plan": "ALL",
+  "kind": "multi",
+  "rec_rep": 1.0,
+  "rec_gold": 1.0,
+  "nplans": 2,
+  "ntest": 150
+ },
+ {
+  "prob": "Rover-GTOHP/p01",
+  "plan": "plan-1",
+  "kind": "single",
+  "rec_flaw": 0.0,
+  "rec_rep": 0.0,
+  "regressions": 0,
+  "n_others": 3
+ },
+ {
+  "prob": "Rover-GTOHP/p01",
+  "plan": "plan-2",
+  "kind": "single",
+  "rec_flaw": 0.393,
+  "rec_rep": 0.06,
+  "regressions": 1,
+  "n_others": 3
+ },
+ {
+  "prob": "Rover-GTOHP/p01",
+  "plan": "plan-3",
+  "kind": "single",
+  "rec_flaw": 0.0,
+  "rec_rep": 0.02,
+  "regressions": 0,
+  "n_others": 3
+ },
+ {
+  "prob": "Rover-GTOHP/p01",
+  "plan": "plan-4",
+  "kind": "single",
+  "rec_flaw": 0.0,
+  "rec_rep": 0.0,
+  "regressions": 0,
+  "n_others": 3
+ },
+ {
+  "prob": "Rover-GTOHP/p01",
+  "plan": "ALL",
+  "kind": "multi",
+  "rec_rep": 0.0,
+  "rec_gold": 1.0,
+  "nplans": 4,
+  "ntest": 150
+ },
+ {
+  "prob": "Rover-GTOHP/p02",
+  "plan": "plan-1",
+  "kind": "single",
+  "rec_flaw": 0.0,
+  "rec_rep": 0.0,
+  "regressions": 0,
+  "n_others": 4
+ },
+ {
+  "prob": "Rover-GTOHP/p02",
+  "plan": "plan-2",
+  "kind": "single",
+  "rec_flaw": 0.147,
+  "rec_rep": 0.2,
+  "regressions": 0,
+  "n_others": 4
+ },
+ {
+  "prob": "Rover-GTOHP/p02",
+  "plan": "plan-3",
+  "kind": "single",
+  "rec_flaw": 0.0,
+  "rec_rep": 0.0,
+  "regressions": 0,
+  "n_others": 4
+ },
+ {
+  "prob": "Rover-GTOHP/p02",
+  "plan": "plan-4",
+  "kind": "single",
+  "rec_flaw": 0.0,
+  "rec_rep": 0.233,
+  "regressions": 0,
+  "n_others": 4
+ },
+ {
+  "prob": "Rover-GTOHP/p02",
+  "plan": "plan-5",
+  "kind": "single",
+  "rec_flaw": 0.0,
+  "rec_rep": 0.0,
+  "regressions": 0,
+  "n_others": 4
+ },
+ {
+  "prob": "Rover-GTOHP/p02",
+  "plan": "ALL",
+  "kind": "multi",
+  "rec_rep": 0.0,
+  "rec_gold": 1.0,
+  "nplans": 5,
+  "ntest": 150
+ },
+ {
+  "prob": "Rover-GTOHP/p03",
+  "plan": "plan-1",
+  "kind": "single",
+  "rec_flaw": 0.0,
+  "rec_rep": 0.0,
+  "regressions": 0,
+  "n_others": 5
+ },
+ {
+  "prob": "Rover-GTOHP/p03",
+  "plan": "plan-2",
+  "kind": "single",
+  "rec_flaw": 0.0,
+  "rec_rep": 0.16,
+  "regressions": 0,
+  "n_others": 5
+ },
+ {
+  "prob": "Rover-GTOHP/p03",
+  "plan": "plan-3",
+  "kind": "single",
+  "rec_flaw": 0.073,
+  "rec_rep": 0.087,
+  "regressions": 0,
+  "n_others": 5
+ },
+ {
+  "prob": "Rover-GTOHP/p03",
+  "plan": "plan-4",
+  "kind": "single",
+  "rec_flaw": 0.0,
+  "rec_rep": 0.76,
+  "regressions": 0,
+  "n_others": 5
+ },
+ {
+  "prob": "Rover-GTOHP/p03",
+  "plan": "plan-5",
+  "kind": "single",
+  "rec_flaw": 0.0,
+  "rec_rep": 0.26,
+  "regressions": 0,
+  "n_others": 5
+ },
+ {
+  "prob": "Rover-GTOHP/p03",
+  "plan": "plan-6",
+  "kind": "single",
+  "rec_flaw": 0.0,
+  "rec_rep": 0.0,
+  "regressions": 0,
+  "n_others": 5
+ },
+ {
+  "prob": "Rover-GTOHP/p03",
+  "plan": "ALL",
+  "kind": "multi",
+  "rec_rep": 0.0,
+  "rec_gold": 1.0,
+  "nplans": 6,
+  "ntest": 150
+ },
+ {
+  "prob": "Satellite-GTOHP/p01",
+  "plan": "plan-1",
+  "kind": "single",
+  "rec_flaw": 0.0,
+  "rec_rep": 0.28,
+  "regressions": 0,
+  "n_others": 1
+ },
+ {
+  "prob": "Satellite-GTOHP/p01",
+  "plan": "plan-2",
+  "kind": "single",
+  "rec_flaw": 0.0,
+  "rec_rep": 0.0,
+  "regressions": 0,
+  "n_others": 1
+ },
+ {
+  "prob": "Satellite-GTOHP/p01",
+  "plan": "ALL",
+  "kind": "multi",
+  "rec_rep": 0.153,
+  "rec_gold": 1.0,
+  "nplans": 2,
+  "ntest": 150
+ }
+]

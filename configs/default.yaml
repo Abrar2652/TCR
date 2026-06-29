@@ -1,0 +1,15 @@
+# Default experiment configuration (consumed by experiment runners if extended).
+# The shipped runners take these as function defaults; this file documents them.
+experiment:
+  n_per_family: 20
+  base_seed: 7
+  n_negatives: 64
+negatives:
+  regimes: [permute_oracle, mutate_guaranteed, edit_neighborhood, gold_structural]
+selector:
+  baseline: cost_only          # incumbent objective
+  ours: conformance            # precision-maximizing
+llm:
+  backend: stub                # stub | anthropic | openai
+  anthropic_model: claude-sonnet-4-6
+  openai_model: o4-mini

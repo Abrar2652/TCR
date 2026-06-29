@@ -1,0 +1,40 @@
+{
+  "0.3": {
+    "p_corrupt": 0.3,
+    "per_domain": {
+      "UM-Translog": {
+        "n_derivations": 400,
+        "mean_fulldomain_precision": 0.4119,
+        "median": 0.25,
+        "frac_below_0.5": 0.6475,
+        "mean_plan_length": 13.1
+      },
+      "Woodworking": {
+        "n_derivations": 400,
+        "mean_fulldomain_precision": 0.895,
+        "median": 1.0,
+        "frac_below_0.5": 0.1575,
+        "mean_plan_length": 3.1
+      }
+    }
+  },
+  "0.6": {
+    "p_corrupt": 0.6,
+    "per_domain": {
+      "UM-Translog": {
+        "n_derivations": 400,
+        "mean_fulldomain_precision": 0.1371,
+        "median": 0.0556,
+        "frac_below_0.5": 0.9175,
+        "mean_plan_length": 13.1
+      },
+      "Woodworking": {
+        "n_derivations": 400,
+        "mean_fulldomain_precision": 0.7733,
+        "median": 1.0,
+        "frac_below_0.5": 0.34,
+        "mean_plan_length": 3.1
+      }
+    }
+  }
+}

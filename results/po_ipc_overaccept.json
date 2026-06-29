@@ -1,0 +1,63 @@
+{
+  "per_domain": {
+    "Barman-BDI": {
+      "n_primitive_subtasks": 11,
+      "mean_local_precision": 0.25,
+      "frac_affected": 1.0,
+      "mean_method_width": 3.73
+    },
+    "Monroe-Fully-Observable": {
+      "n_primitive_subtasks": 85,
+      "mean_local_precision": 0.3459,
+      "frac_affected": 0.9529,
+      "mean_method_width": 3.52
+    },
+    "Monroe-Partially-Observable": {
+      "n_primitive_subtasks": 83,
+      "mean_local_precision": 0.3472,
+      "frac_affected": 0.9518,
+      "mean_method_width": 3.52
+    },
+    "PCP": {
+      "n_primitive_subtasks": 504,
+      "mean_local_precision": 0.19,
+      "frac_affected": 1.0,
+      "mean_method_width": 4.37
+    },
+    "Rover": {
+      "n_primitive_subtasks": 14,
+      "mean_local_precision": 0.2679,
+      "frac_affected": 1.0,
+      "mean_method_width": 3.21
+    },
+    "Satellite": {
+      "n_primitive_subtasks": 10,
+      "mean_local_precision": 0.4,
+      "frac_affected": 1.0,
+      "mean_method_width": 2.4
+    },
+    "Transport": {
+      "n_primitive_subtasks": 1,
+      "mean_local_precision": 0.5,
+      "frac_affected": 1.0,
+      "mean_method_width": 2
+    },
+    "UM-Translog": {
+      "n_primitive_subtasks": 73,
+      "mean_local_precision": 0.2495,
+      "frac_affected": 0.9863,
+      "mean_method_width": 3.55
+    },
+    "Woodworking": {
+      "n_primitive_subtasks": 3,
+      "mean_local_precision": 0.2778,
+      "frac_affected": 1.0,
+      "mean_method_width": 3
+    }
+  },
+  "overall": {
+    "n_primitive_subtasks": 784,
+    "mean_local_precision": 0.2347,
+    "frac_affected": 0.9885
+  }
+}

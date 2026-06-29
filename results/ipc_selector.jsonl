@@ -1,0 +1,44 @@
+{"path": "Entertainment/pfile02/plan-2", "domain": "Entertainment", "error": "timeout"}
+{"path": "Entertainment/pfile02/plan-1", "domain": "Entertainment", "error": "timeout"}
+{"path": "Woodworking/03--p02-part2/plan-2", "domain": "Woodworking", "min_cost": 2, "n_mincost": 17, "n_neg": 30, "cost_only_expected": 0.9863, "cost_only_worst": 0.9667, "conformance": 1.0, "gain": 0.0137, "gap": 0.4118}
+{"path": "Satellite-GTOHP/p01/plan-2", "domain": "Satellite-GTOHP", "error": "timeout"}
+{"path": "Satellite-GTOHP/p01/plan-1", "domain": "Satellite-GTOHP", "min_cost": 1, "n_mincost": 2, "n_neg": 300, "cost_only_expected": 0.9667, "cost_only_worst": 0.9567, "conformance": 0.9767, "gain": 0.01, "gap": 1.0}
+{"path": "Blocksworld-GTOHP/p01/plan-2", "domain": "Blocksworld-GTOHP", "error": "timeout"}
+{"path": "Blocksworld-GTOHP/p01/plan-1", "domain": "Blocksworld-GTOHP", "error": "timeout"}
+{"path": "Entertainment/pfile01/plan-1", "domain": "Entertainment", "error": "timeout"}
+{"path": "Entertainment/pfile03/plan-1", "domain": "Entertainment", "error": "timeout"}
+{"path": "Entertainment/pfile03/plan-2", "domain": "Entertainment", "error": "timeout"}
+{"path": "Blocksworld-GTOHP/p03/plan-2", "domain": "Blocksworld-GTOHP", "error": "timeout"}
+{"path": "Blocksworld-GTOHP/p03/plan-1", "domain": "Blocksworld-GTOHP", "error": "timeout"}
+{"path": "Transport/pfile04/plan-1", "domain": "Transport", "error": "timeout"}
+{"path": "Entertainment/pfile04/plan-3", "domain": "Entertainment", "error": "timeout"}
+{"path": "Entertainment/pfile04/plan-2", "domain": "Entertainment", "error": "timeout"}
+{"path": "Entertainment/pfile04/plan-1", "domain": "Entertainment", "error": "timeout"}
+{"path": "Blocksworld-GTOHP/p02/plan-1", "domain": "Blocksworld-GTOHP", "error": "timeout"}
+{"path": "Transport/pfile06/plan-1", "domain": "Transport", "min_cost": 1, "n_mincost": 1, "n_neg": 300, "cost_only_expected": 1.0, "cost_only_worst": 1.0, "conformance": 1.0, "gain": 0.0, "gap": 0.0}
+{"path": "Transport/pfile05/plan-1", "domain": "Transport", "error": "timeout"}
+{"path": "Depots/p01/plan-1", "domain": "Depots", "error": "timeout"}
+{"path": "Depots/p01/plan-2", "domain": "Depots", "error": "timeout"}
+{"path": "Depots/p01/plan-3", "domain": "Depots", "min_cost": 1, "n_mincost": 3, "n_neg": 300, "cost_only_expected": 0.9778, "cost_only_worst": 0.9767, "conformance": 0.98, "gain": 0.0022, "gap": 1.0}
+{"path": "Rover-GTOHP/p01/plan-1", "domain": "Rover-GTOHP", "error": "timeout"}
+{"path": "Rover-GTOHP/p01/plan-2", "domain": "Rover-GTOHP", "error": "timeout"}
+{"path": "Rover-GTOHP/p01/plan-4", "domain": "Rover-GTOHP", "error": "timeout"}
+{"path": "Rover-GTOHP/p01/plan-3", "domain": "Rover-GTOHP", "error": "timeout"}
+{"path": "Rover-GTOHP/p02/plan-2", "domain": "Rover-GTOHP", "error": "timeout"}
+{"path": "Rover-GTOHP/p02/plan-5", "domain": "Rover-GTOHP", "error": "timeout"}
+{"path": "Rover-GTOHP/p02/plan-4", "domain": "Rover-GTOHP", "error": "timeout"}
+{"path": "Rover-GTOHP/p02/plan-3", "domain": "Rover-GTOHP", "error": "timeout"}
+{"path": "Rover-GTOHP/p02/plan-1", "domain": "Rover-GTOHP", "error": "timeout"}
+{"path": "Transport/pfile09/plan-1", "domain": "Transport", "error": "timeout"}
+{"path": "Transport/pfile09/plan-3", "domain": "Transport", "error": "timeout"}
+{"path": "Transport/pfile09/plan-2", "domain": "Transport", "error": "timeout"}
+{"path": "Transport/pfile08/plan-2", "domain": "Transport", "error": "timeout"}
+{"path": "Transport/pfile08/plan-3", "domain": "Transport", "error": "timeout"}
+{"path": "Transport/pfile08/plan-1", "domain": "Transport", "error": "timeout"}
+{"path": "Satellite-GTOHP/p02/plan-1", "domain": "Satellite-GTOHP", "error": "timeout"}
+{"path": "Satellite-GTOHP/p02/plan-2", "domain": "Satellite-GTOHP", "error": "timeout"}
+{"path": "Satellite-GTOHP/p02/plan-3", "domain": "Satellite-GTOHP", "error": "timeout"}
+{"path": "Satellite-GTOHP/p02/plan-4", "domain": "Satellite-GTOHP", "error": "timeout"}
+{"path": "Entertainment/pfile05/plan-1", "domain": "Entertainment", "error": "timeout"}
+{"path": "Entertainment/pfile05/plan-2", "domain": "Entertainment", "error": "timeout"}
+{"path": "Transport/pfile11/plan-1", "domain": "Transport", "min_cost": 1, "n_mincost": 3, "n_neg": 43, "cost_only_expected": 0.9845, "cost_only_worst": 0.9767, "conformance": 1.0, "gain": 0.0155, "gap": 0.6667}

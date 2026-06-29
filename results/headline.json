@@ -1,0 +1,237 @@
+{
+  "experiment_1_conformance_gap": [
+    {
+      "family": "linear_control",
+      "regime": "permute_oracle",
+      "n_instances": 20,
+      "mean_n_target_valid": 1,
+      "mean_conformance_gap": 0.0,
+      "mean_rejection_cost_only_expected": 1.0,
+      "mean_rejection_cost_only_worst": 1.0,
+      "mean_rejection_conformance": 1.0
+    },
+    {
+      "family": "linear_control",
+      "regime": "mutate_guaranteed",
+      "n_instances": 20,
+      "mean_n_target_valid": 1,
+      "mean_conformance_gap": 0.0,
+      "mean_rejection_cost_only_expected": 1.0,
+      "mean_rejection_cost_only_worst": 1.0,
+      "mean_rejection_conformance": 1.0
+    },
+    {
+      "family": "linear_control",
+      "regime": "edit_neighborhood",
+      "n_instances": 20,
+      "mean_n_target_valid": 1,
+      "mean_conformance_gap": 0.0,
+      "mean_rejection_cost_only_expected": 1.0,
+      "mean_rejection_cost_only_worst": 1.0,
+      "mean_rejection_conformance": 1.0
+    },
+    {
+      "family": "linear_control",
+      "regime": "gold_structural",
+      "n_instances": 20,
+      "mean_n_target_valid": 1,
+      "mean_conformance_gap": 0.0,
+      "mean_rejection_cost_only_expected": 1.0,
+      "mean_rejection_cost_only_worst": 1.0,
+      "mean_rejection_conformance": 1.0
+    },
+    {
+      "family": "branch_suffix",
+      "regime": "permute_oracle",
+      "n_instances": 20,
+      "mean_n_target_valid": 3,
+      "mean_conformance_gap": 0.0,
+      "mean_rejection_cost_only_expected": 1.0,
+      "mean_rejection_cost_only_worst": 1.0,
+      "mean_rejection_conformance": 1.0
+    },
+    {
+      "family": "branch_suffix",
+      "regime": "mutate_guaranteed",
+      "n_instances": 20,
+      "mean_n_target_valid": 3,
+      "mean_conformance_gap": 0.0,
+      "mean_rejection_cost_only_expected": 1.0,
+      "mean_rejection_cost_only_worst": 1.0,
+      "mean_rejection_conformance": 1.0
+    },
+    {
+      "family": "branch_suffix",
+      "regime": "edit_neighborhood",
+      "n_instances": 20,
+      "mean_n_target_valid": 3,
+      "mean_conformance_gap": 0.1,
+      "mean_rejection_cost_only_expected": 0.9984,
+      "mean_rejection_cost_only_worst": 0.9977,
+      "mean_rejection_conformance": 1.0
+    },
+    {
+      "family": "branch_suffix",
+      "regime": "gold_structural",
+      "n_instances": 20,
+      "mean_n_target_valid": 3,
+      "mean_conformance_gap": 0.6667,
+      "mean_rejection_cost_only_expected": 0.9597,
+      "mean_rejection_cost_only_worst": 0.9395,
+      "mean_rejection_conformance": 1.0
+    },
+    {
+      "family": "shared_setup",
+      "regime": "permute_oracle",
+      "n_instances": 20,
+      "mean_n_target_valid": 3,
+      "mean_conformance_gap": 0.0,
+      "mean_rejection_cost_only_expected": 1.0,
+      "mean_rejection_cost_only_worst": 1.0,
+      "mean_rejection_conformance": 1.0
+    },
+    {
+      "family": "shared_setup",
+      "regime": "mutate_guaranteed",
+      "n_instances": 20,
+      "mean_n_target_valid": 3,
+      "mean_conformance_gap": 0.0,
+      "mean_rejection_cost_only_expected": 1.0,
+      "mean_rejection_cost_only_worst": 1.0,
+      "mean_rejection_conformance": 1.0
+    },
+    {
+      "family": "shared_setup",
+      "regime": "edit_neighborhood",
+      "n_instances": 20,
+      "mean_n_target_valid": 3,
+      "mean_conformance_gap": 0.2667,
+      "mean_rejection_cost_only_expected": 0.9958,
+      "mean_rejection_cost_only_worst": 0.9938,
+      "mean_rejection_conformance": 1.0
+    },
+    {
+      "family": "shared_setup",
+      "regime": "gold_structural",
+      "n_instances": 20,
+      "mean_n_target_valid": 3,
+      "mean_conformance_gap": 0.6667,
+      "mean_rejection_cost_only_expected": 0.9539,
+      "mean_rejection_cost_only_worst": 0.9308,
+      "mean_rejection_conformance": 1.0
+    },
+    {
+      "family": "finish_suffix",
+      "regime": "permute_oracle",
+      "n_instances": 20,
+      "mean_n_target_valid": 3,
+      "mean_conformance_gap": 0.0,
+      "mean_rejection_cost_only_expected": 1.0,
+      "mean_rejection_cost_only_worst": 1.0,
+      "mean_rejection_conformance": 1.0
+    },
+    {
+      "family": "finish_suffix",
+      "regime": "mutate_guaranteed",
+      "n_instances": 20,
+      "mean_n_target_valid": 3,
+      "mean_conformance_gap": 0.0,
+      "mean_rejection_cost_only_expected": 1.0,
+      "mean_rejection_cost_only_worst": 1.0,
+      "mean_rejection_conformance": 1.0
+    },
+    {
+      "family": "finish_suffix",
+      "regime": "edit_neighborhood",
+      "n_instances": 20,
+      "mean_n_target_valid": 3,
+      "mean_conformance_gap": 0.0667,
+      "mean_rejection_cost_only_expected": 0.999,
+      "mean_rejection_cost_only_worst": 0.9984,
+      "mean_rejection_conformance": 1.0
+    },
+    {
+      "family": "finish_suffix",
+      "regime": "gold_structural",
+      "n_instances": 20,
+      "mean_n_target_valid": 3,
+      "mean_conformance_gap": 0.6667,
+      "mean_rejection_cost_only_expected": 0.9593,
+      "mean_rejection_cost_only_worst": 0.9389,
+      "mean_rejection_conformance": 1.0
+    },
+    {
+      "family": "nested_phase",
+      "regime": "permute_oracle",
+      "n_instances": 20,
+      "mean_n_target_valid": 3,
+      "mean_conformance_gap": 0.0,
+      "mean_rejection_cost_only_expected": 1.0,
+      "mean_rejection_cost_only_worst": 1.0,
+      "mean_rejection_conformance": 1.0
+    },
+    {
+      "family": "nested_phase",
+      "regime": "mutate_guaranteed",
+      "n_instances": 20,
+      "mean_n_target_valid": 3,
+      "mean_conformance_gap": 0.0,
+      "mean_rejection_cost_only_expected": 1.0,
+      "mean_rejection_cost_only_worst": 1.0,
+      "mean_rejection_conformance": 1.0
+    },
+    {
+      "family": "nested_phase",
+      "regime": "edit_neighborhood",
+      "n_instances": 20,
+      "mean_n_target_valid": 3,
+      "mean_conformance_gap": 0.0667,
+      "mean_rejection_cost_only_expected": 0.999,
+      "mean_rejection_cost_only_worst": 0.9984,
+      "mean_rejection_conformance": 1.0
+    },
+    {
+      "family": "nested_phase",
+      "regime": "gold_structural",
+      "n_instances": 20,
+      "mean_n_target_valid": 3,
+      "mean_conformance_gap": 0.6667,
+      "mean_rejection_cost_only_expected": 0.964,
+      "mean_rejection_cost_only_worst": 0.9461,
+      "mean_rejection_conformance": 1.0
+    }
+  ],
+  "experiment_3_stability": {
+    "linear_control": {
+      "min_improvement_vs_expected": 0.0,
+      "max_improvement_vs_expected": 0.0,
+      "max_gap_across_regimes": 0.0,
+      "regimes": 4
+    },
+    "branch_suffix": {
+      "min_improvement_vs_expected": 0.0,
+      "max_improvement_vs_expected": 0.0403,
+      "max_gap_across_regimes": 0.6667,
+      "regimes": 4
+    },
+    "shared_setup": {
+      "min_improvement_vs_expected": 0.0,
+      "max_improvement_vs_expected": 0.0461,
+      "max_gap_across_regimes": 0.6667,
+      "regimes": 4
+    },
+    "finish_suffix": {
+      "min_improvement_vs_expected": 0.0,
+      "max_improvement_vs_expected": 0.0407,
+      "max_gap_across_regimes": 0.6667,
+      "regimes": 4
+    },
+    "nested_phase": {
+      "min_improvement_vs_expected": 0.0,
+      "max_improvement_vs_expected": 0.036,
+      "max_gap_across_regimes": 0.6667,
+      "regimes": 4
+    },
+    "_stable": true
+  }
+}
