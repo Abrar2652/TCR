@@ -19,8 +19,7 @@ incumbent objective leaves it open, and gives a repair that closes it.
 
 The verifier (CFG/CYK membership) is **differentially tested** against a brute-force
 oracle; the study is **deterministic, offline, and zero-runtime-dependency**; `426`
-tests pass. See [`paper.tex`](paper.tex) for the write-up and [`docs/THEORY.md`](docs/THEORY.md)
-for the proofs (precision-blindness; optimal partial-order recovery).
+tests pass.
 
 ## Install
 
@@ -63,10 +62,9 @@ experiments/     synthetic (E1–E4) and partial-order runners
 figures/         publication figures (one script per figure -> out/*.{pdf,png})
 results/         committed experiment outputs (every paper number traces here)
 docs/            theory (proofs), framing, related work, partial-order notes
-paper.tex        the paper (stock LaTeX; swap in the AAAI class for submission)
+
 ```
 
-`CLAUDE.md` is an engineering-oriented tour for continued development.
 
 ## License
 
